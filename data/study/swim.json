@@ -1,0 +1,40 @@
+{
+  "meta": { "section": "swim", "title": "游泳课推荐", "updated": "2025-04" },
+
+  "top3": [
+    { "label": "🏊 Woodbridge Club",  "tag": "$100/10周·强推",  "mapQ": "Woodbridge+Club+Pool+NJ" },
+    { "label": "🎽 Into The Swim",    "tag": "1对2小班",         "mapQ": "Wardlaw+Hartridge+School+Edison+NJ" },
+    { "label": "⭐ Starfish Aquatic", "tag": "随到随学",         "mapQ": "Starfish+Aquatic+Club+South+Plainfield+NJ" }
+  ],
+
+  "cards": [
+    {
+      "name": "British Swim School（Edison）",
+      "tags": [{"type":"warm","text":"Edison"},{"type":"gray","text":"随到随学"}],
+      "note": "LA Fitness 内，周日 9:30am。约 $146/月（每周1课）",
+      "addr": "905 US Rte 1, Edison, NJ",
+      "mapQ": "British+Swim+School+Edison+NJ"
+    },
+    {
+      "name": "Birnbaum JCC（Bridgewater）",
+      "tags": [{"type":"warm","text":"Bridgewater"},{"type":"gray","text":"24-36个月"}],
+      "note": "会员价 $108 / 非会员 $180，7次课程",
+      "addr": "775 Talamini Rd, Bridgewater, NJ",
+      "mapQ": "Birnbaum+JCC+Bridgewater+NJ"
+    },
+    {
+      "name": "YMCA",
+      "tags": [{"type":"warm","text":"多地点"},{"type":"gray","text":"3-5岁"}],
+      "note": "3-5岁无需家长陪同，非会员约 $48/7课",
+      "addr": "多地点，Edison 周边均有",
+      "mapQ": "YMCA+Edison+NJ"
+    }
+  ],
+
+  "avoid": [
+    {
+      "name": "Five Star Swim School（Edison）",
+      "reason": "群友反映：每次老师都不一样，照本宣科，根本学不会游泳。Monthly recurring 模式不透明，除非只当玩玩"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "section": "activities",
+    "title": "按活动找",
+    "updated": "2025-04"
+  },
+  "activities": [
+    {
+      "id": "sakura",
+      "icon": "🌸",
+      "title": "樱花赏花",
+      "status": "now",
+      "dateLabel": "3月底 – 4月中旬",
+      "desc": "春季限定，花期只有2周左右。NJ 本地 + NYC 都有好去处，按距离和风格选",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "相机/手机充电", "备用外套（早晚偏凉）"],
+        "with_stroller": ["推车遮阳篷", "停车场到花田距离远，确认好路线"],
+        "no_stroller": ["背巾/背带", "舒适步行鞋"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋", "提前找好厕所"]
+      },
+      "picks": [
+        {
+          "rank": 1,
+          "label": "🥇 近Edison首选",
+          "name": "Rutgers Gardens 樱花步道",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "warm", "text": "距Edison ~10min" },
+            { "type": "green", "text": "好停车" }
+          ],
+          "note": "最近最方便，免费停车，人不挤，步道漂亮，适合带娃慢慢逛拍照",
+          "mapQ": "Rutgers+Gardens+North+Brunswick+NJ"
+        },
+        {
+          "rank": 2,
+          "label": "🥈 全美最大",
+          "name": "Branch Brook Park · Newark",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "green", "text": "约4000棵" },
+            { "type": "gray", "text": "⚠️ 周末人多" }
+          ],
+          "note": "全美最大樱花园，花量惊人，品种多，步道长。建议平日或早上9点前去，周末停车难",
+          "mapQ": "Branch+Brook+Park+Newark+NJ"
+        },
+        {
+          "rank": 3,
+          "label": "🥉 NYC · 日式樱花祭",
+          "name": "Brooklyn Botanic Garden",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "warm", "text": "Brooklyn NY" },
+            { "type": "green", "text": "文化活动" }
+          ],
+          "note": "Sakura Matsuri 约4月下旬，有太鼓表演等日式文化活动。需提前购票，距Edison约1小时",
+          "mapQ": "Brooklyn+Botanic+Garden+NY"
+        },
+        {
+          "rank": 4,
+          "label": "➕ 顺路NYC",
+          "name": "Central Park + Prospect Park",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "warm", "text": "NYC" }
+          ],
+          "note": "Central Park Cherry Hill 区域 + Prospect Park 都有樱花，免费，适合顺路NYC行程一并安排",
+          "mapQ": "Central+Park+Cherry+Hill+New+York"
+        }
+      ]
+    },
+    {
+      "id": "strawberry",
+      "icon": "🍓",
+      "title": "草莓采摘",
+      "status": "soon",
+      "dateLabel": "5月中下旬开始",
+      "desc": "Edison 周边最受欢迎的春季亲子活动，几乎每个有孩子的家庭都会去一次",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "旧衣服/旧鞋（泥土/草汁）", "摘草莓容器（或现场买）", "零食"],
+        "with_stroller": ["⚠️ 田间土路推车较难，强烈建议带背巾备用"],
+        "no_stroller": ["背巾/背带", "运动鞋（草地/泥地）"],
+        "potty_training": ["备换衣裤×2", "湿纸巾", "小塑料袋", "折叠便携马桶（户外厕所排队长）"]
+      },
+      "picks": [
+        {
+          "rank": 1,
+          "label": "🥇 首选",
+          "name": "Von Thun Farms（SB / Washington）",
+          "tags": [
+            { "type": "green", "text": "Season Pass 最值" },
+            { "type": "warm", "text": "活动最丰富" }
+          ],
+          "note": "两个分店都能摘，配合 Playground + Touch-a-Tractor 一起玩，性价比最高",
+          "mapQ": "Von+Thun+Farms+South+Brunswick+NJ"
+        },
+        {
+          "rank": 2,
+          "label": "🥈 性价比（强推）",
+          "name": "Battleview Orchards",
+          "tags": [
+            { "type": "green", "text": "人少轻松" },
+            { "type": "green", "text": "价格实惠" }
+          ],
+          "note": "不挤，慢慢摘，适合不想赶热闹的家庭。价格比 Von Thun 便宜",
+          "mapQ": "Battleview+Orchards+Freehold+NJ"
+        },
+        {
+          "rank": 3,
+          "label": "🥉 备选",
+          "name": "Lee Turkey Farm",
+          "tags": [
+            { "type": "gray", "text": "中等人流" }
+          ],
+          "note": "草莓质量不错，距离适中",
+          "mapQ": "Lee+Turkey+Farm+East+Windsor+NJ"
+        }
+      ]
+    },
+    {
+      "id": "tulip",
+      "icon": "🌷",
+      "title": "郁金香赏花",
+      "status": "now",
+      "dateLabel": "4月中旬 – 5月初",
+      "desc": "春季限定，花期短，不去就要等一年。适合带娃拍照留念",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "相机/手机充电", "现金或刷卡（部分收费）"],
+        "with_stroller": ["⚠️ 田间土路不平，推车较难——建议背巾代替"],
+        "no_stroller": ["背巾/背带", "运动鞋（土路）"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋", "提前找好厕所位置"]
+      },
+      "picks": [
+        {
+          "rank": 1,
+          "label": "🥇 主流打卡",
+          "name": "Holland Ridge Farms",
+          "tags": [
+            { "type": "warm", "text": "花海壮观" },
+            { "type": "gray", "text": "⚠️ 周末人极多" }
+          ],
+          "note": "全美最知名郁金香农场，花量巨大，拍照极美。但周末人很多，建议工作日或一早去",
+          "mapQ": "Holland+Ridge+Farms+Cream+Ridge+NJ"
+        },
+        {
+          "rank": 2,
+          "label": "🥈 轻松版",
+          "name": "Dalton Farms（U-pick）",
+          "tags": [
+            { "type": "green", "text": "人少" },
+            { "type": "warm", "text": "可自摘" }
+          ],
+          "note": "可以自己动手摘郁金香，人少，带小娃更轻松",
+          "mapQ": "Dalton+Farms+NJ+tulip"
+        },
+        {
+          "rank": 3,
+          "label": "🥉 顺路选",
+          "name": "Von Thun Farms · Washington",
+          "tags": [
+            { "type": "warm", "text": "顺路可去" }
+          ],
+          "note": "Washington 分店春季也有郁金香，配合其他活动顺路",
+          "mapQ": "Von+Thun+Farms+Washington+NJ"
+        }
+      ]
+    },
+    {
+      "id": "farm-visit",
+      "icon": "🐄",
+      "title": "农场游玩",
+      "status": "now",
+      "dateLabel": "全年可去",
+      "desc": "不只是采摘，带娃感受农场氛围，看动物、坐拖拉机、玩 playground",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "零食", "旧衣服/旧鞋", "现金（喂动物/小摊）"],
+        "with_stroller": ["⚠️ 农场地面不平，建议带背巾备用", "推车遮阳篷"],
+        "no_stroller": ["背巾/背带", "运动鞋（草地/泥地）"],
+        "potty_training": ["备换衣裤×2", "湿纸巾", "小塑料袋", "接触动物后及时洗手"]
+      },
+      "picks": [
+        {
+          "rank": 1,
+          "label": "🥇 活动最全",
+          "name": "Von Thun Farms",
+          "tags": [
+            { "type": "green", "text": "Season Pass" },
+            { "type": "warm", "text": "幼儿首选" }
+          ],
+          "note": "Playground + 动物区 + 季节性 U-pick + 节日活动，一张 Season Pass 四季都能来",
+          "mapQ": "Von+Thun+Farms+South+Brunswick+NJ"
+        },
+        {
+          "rank": 2,
+          "label": "🥈 动物 + 活动",
+          "name": "Terhune Orchards",
+          "tags": [
+            { "type": "green", "text": "动物区" },
+            { "type": "warm", "text": "Princeton" }
+          ],
+          "note": "有小动物可以喂，周末常有活动，孩子很喜欢",
+          "mapQ": "Terhune+Orchards+Princeton+NJ"
+        },
+        {
+          "rank": 3,
+          "label": "🥉 近 Edison",
+          "name": "Giamarese Farm",
+          "tags": [
+            { "type": "warm", "text": "East Brunswick" },
+            { "type": "green", "text": "近" }
+          ],
+          "note": "距 Edison 最近，随时可以去，节奏轻松",
+          "mapQ": "Giamarese+Farm+East+Brunswick+NJ"
+        }
+      ]
+    }
+  ]
+}

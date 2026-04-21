@@ -1,0 +1,85 @@
+{
+  "meta": { "section": "daycare", "title": "Daycare 推荐", "updated": "2025-04" },
+
+  "top3": [
+    { "label": "🗣️ Jump! Immersion", "tag": "中英西三语·Edison", "mapQ": "Jump+Immersion+School+Edison+NJ" },
+    { "label": "⭐ TLE Edison",       "tag": "多人推荐",          "mapQ": "The+Learning+Experience+Edison+NJ" },
+    { "label": "📹 Lightbridge EB",   "tag": "有监控·设施新",    "mapQ": "Lightbridge+Academy+East+Brunswick+NJ" }
+  ],
+
+  "categories": [
+    {
+      "label": "Edison 周边",
+      "cards": [
+        {
+          "name": "Apple Montessori - Edison (Woodbridge Ave)",
+          "tags": [{"type":"warm","text":"Edison"},{"type":"gray","text":"2-6岁"},{"type":"green","text":"有监控"}],
+          "note": "地方较大，有西班牙语教学，有监控。以白人和印度人为主",
+          "addr": "2825 Woodbridge Ave, Edison, NJ",
+          "mapQ": "Apple+Montessori+Edison+NJ"
+        },
+        {
+          "name": "STEAM Montessori Home-based",
+          "tags": [{"type":"warm","text":"Edison"},{"type":"green","text":"中文"},{"type":"gray","text":"⚠️ Waitlist"}],
+          "note": "英语西班牙语中文，老师非常有耐心",
+          "phone": "7323721783"
+        },
+        {
+          "name": "Discovery Christian Montessori",
+          "tags": [{"type":"warm","text":"Edison"},{"type":"green","text":"4.9分"}],
+          "note": "环境干净整洁，老师有爱，在扩建中，重视防疫",
+          "addr": "1125 Inman Ave, Edison, NJ",
+          "mapQ": "Discovery+Christian+Montessori+Edison+NJ"
+        },
+        {
+          "name": "Primrose School - North Edison",
+          "tags": [{"type":"warm","text":"Edison"},{"type":"green","text":"5.0分"},{"type":"gray","text":"含饭含床单"}],
+          "note": "不用带饭和零食，连床单也不用带，起床任务少。但有群友反馈教学一般",
+          "addr": "23 Nevsky St, Edison, NJ",
+          "mapQ": "Primrose+School+North+Edison+NJ"
+        },
+        {
+          "name": "Dayspring Child Care（Metuchen）",
+          "tags": [{"type":"warm","text":"Metuchen"},{"type":"green","text":"强烈推荐"},{"type":"gray","text":"收费合理"}],
+          "note": "老师非常好很有爱，有summer camp，各节日办得很好，收费合理。群内多人后悔没早送",
+          "phone": "7325491020"
+        },
+        {
+          "name": "Precious Gems Montessori",
+          "tags": [{"type":"warm","text":"Metuchen"},{"type":"gray","text":"英文授课"},{"type":"green","text":"师资稳定"}],
+          "note": "只有英文，小班制，老师都非常有耐心。师资班底固定，核心老师十几年没有换过，孩子很喜欢",
+          "addr": "Metuchen, NJ",
+          "mapQ": "Precious+Gems+Montessori+Metuchen+NJ"
+        }
+      ]
+    },
+    {
+      "label": "The Learning Experience 系列",
+      "cards": [
+        {
+          "name": "TLE - East Brunswick",
+          "tags": [{"type":"warm","text":"East Brunswick"},{"type":"green","text":"有监控"},{"type":"green","text":"群友推荐"}],
+          "note": "内容丰富有系统（手语、自然科学、舞蹈画画），有春游，有APP，8:30am-6pm",
+          "addr": "405 NJ-18, East Brunswick, NJ",
+          "mapQ": "The+Learning+Experience+East+Brunswick+NJ"
+        },
+        {
+          "name": "TLE - Piscataway",
+          "tags": [{"type":"warm","text":"Piscataway"}],
+          "phone": "7377777320"
+        }
+      ]
+    }
+  ],
+
+  "avoid": [
+    {
+      "name": "Lightbridge Academy - Iselin",
+      "reason": "管理混乱，班级自治，Director 管理问题严重。据悉该 Director 已转至 Westfield 分校，建议避开 Westfield 分校"
+    },
+    {
+      "name": "Greatest Early Learning - South Plainfield",
+      "reason": "Google 上有虐童评论，信息杂乱，谨慎选择"
+    }
+  ]
+}

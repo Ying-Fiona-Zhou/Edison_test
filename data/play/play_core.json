@@ -1,0 +1,152 @@
+{
+  "meta": { "section": "play", "title": "遛娃地点", "updated": "2025-04" },
+  "top3": [
+    { "label": "🌳 Colonial Park", "tag": "免费·全年龄", "mapQ": "Colonial+Park+Somerset+NJ" },
+    { "label": "🛝 Donaldson Park", "tag": "免费·新设施", "mapQ": "Donaldson+Park+Highland+Park+NJ" },
+    { "label": "🏀 Rock N Air", "tag": "室内·3岁+专区", "mapQ": "Rock+N+Air+East+Brunswick+NJ" }
+  ],
+  "filters": [
+    { "id": "all", "label": "🏠 全部" },
+    { "id": "general", "label": "🌳 公园" },
+    { "id": "indoor", "label": "🏠 室内" },
+    { "id": "beach", "label": "🏖 海滩" },
+    { "id": "playground", "label": "🛝 Playground" },
+    { "id": "water", "label": "💦 免费玩水" },
+    { "id": "hiking", "label": "🥾 Hiking" },
+    { "id": "theme", "label": "🎢 主题乐园" }
+  ],
+  "blocks": {
+    "general": {
+      "outdoor": [
+        {
+          "name": "Thomas A. Edison Park",
+          "tags": [{ "type": "free", "text": "免费" }, { "type": "green", "text": "室外" }],
+          "tip": "离家近，设施新，随时可去",
+          "note": "Playground 很新，环境干净卫生",
+          "addr": "N Patrol Rd, Edison, NJ · 本地",
+          "mapQ": "Thomas+Edison+Park+Edison+NJ",
+          "checklist": {
+            "base": ["🧴 防晒霜", "💧 饮用水/饮料", "🍎 零食", "🌂 遮阳帽"],
+            "with_stroller": ["🛒 推车遮阳篷", "🧥 多带一件薄外套"],
+            "no_stroller": ["🎒 背巾/背带"],
+            "potty_training": ["🩲 备换衣裤", "🧻 湿纸巾", "🛍️ 小塑料袋"]
+          }
+        },
+        {
+          "name": "Johnson Park",
+          "tags": [{ "type": "free", "text": "免费" }, { "type": "green", "text": "室外" }],
+          "tip": "设施新环境好，推车友好",
+          "note": "Playground 很新，环境好（原有小动物园因洪水风险已搬迁）",
+          "addr": "Johnson Park Rd, Piscataway, NJ · 约15min",
+          "mapQ": "Johnson+Park+Piscataway+NJ",
+          "checklist": {
+            "base": ["🧴 防晒霜", "💧 饮用水/饮料", "🍎 零食", "🌂 遮阳帽"],
+            "with_stroller": ["🛒 推车遮阳篷"],
+            "no_stroller": ["🎒 背巾/背带"],
+            "potty_training": ["🩲 备换衣裤", "🧻 湿纸巾", "🛍️ 小塑料袋"]
+          }
+        },
+        {
+          "name": "Thompson Park",
+          "tags": [{ "type": "free", "text": "免费" }, { "type": "warm", "text": "野餐圣地" }],
+          "tip": "野餐+小动物园，周末家庭首选",
+          "note": "桌椅+草坪+网球场+湖+沙滩排球+小动物园",
+          "addr": "Monroe Township, NJ · 约25min",
+          "mapQ": "Thompson+Park+Monroe+NJ",
+          "checklist": {
+            "base": ["🧺 野餐垫/毯子", "🧴 防晒霜", "💧 饮用水/饮料", "🍱 零食或午餐", "🌂 遮阳帽"],
+            "with_stroller": ["🛒 推车遮阳篷", "🪝 推车挂钩（挂包）"],
+            "no_stroller": ["🎒 背巾/背带"],
+            "potty_training": ["🩲 备换衣裤", "🧻 湿纸巾", "🛍️ 小塑料袋", "🚽 折叠便携马桶"]
+          }
+        },
+        {
+          "name": "Kidstreet Playground",
+          "tags": [{ "type": "free", "text": "免费" }, { "type": "green", "text": "大型" }],
+          "tip": "沙坑+zipline，孩子能玩一整天",
+          "note": "设施是木头的但面积很大，有沙坑和 zip-lining",
+          "addr": "700 Garretson Rd, Bridgewater, NJ · 约30min",
+          "mapQ": "Kidstreet+Playground+Bridgewater+NJ",
+          "checklist": {
+            "base": ["🧴 防晒霜", "💧 饮用水/饮料", "🍎 零食", "🌂 遮阳帽", "👕 备换衣物（沙坑）"],
+            "with_stroller": ["⚠️ 沙坑区推车不便，建议另备背巾"],
+            "no_stroller": ["🎒 背巾/背带", "👟 运动鞋（zipline要跑动）"],
+            "potty_training": ["🩲 备换衣裤×2", "🧻 湿纸巾", "🛍️ 小塑料袋"]
+          }
+        },
+        {
+          "name": "Deep Cut Gardens",
+          "tags": [{ "type": "free", "text": "免费" }, { "type": "warm", "text": "小红书网红" }],
+          "tip": "花园+金鱼池，拍照打卡必去",
+          "note": "漂亮精致，有小池塘和金鱼，拍照圣地",
+          "addr": "152 Red Hill Rd, Middletown, NJ · 约35min",
+          "mapQ": "Deep+Cut+Gardens+Middletown+NJ",
+          "checklist": {
+            "base": ["🧴 防晒霜", "💧 饮用水", "📸 相机/手机充满电", "🌂 遮阳帽"],
+            "with_stroller": ["🛒 推车遮阳篷"],
+            "no_stroller": ["🎒 背巾/背带"],
+            "potty_training": ["🩲 备换衣裤", "🧻 湿纸巾", "🛍️ 小塑料袋"]
+          }
+        },
+        {
+          "name": "Duke Farms",
+          "tags": [{ "type": "free", "text": "免费" }, { "type": "green", "text": "散步" }],
+          "tip": "风景好空间大，推车轻松逛",
+          "addr": "1112 Dukes Pkwy W, Hillsborough, NJ · 约30–40min",
+          "mapQ": "Duke+Farms+Hillsborough+NJ",
+          "checklist": {
+            "base": ["🧴 防晒霜", "💧 饮用水（路程长多带）", "🍎 零食", "👟 舒适走路鞋"],
+            "with_stroller": ["🛒 推车遮阳篷", "🧴 多备水（路程较长）"],
+            "no_stroller": ["🎒 背巾/背带"],
+            "potty_training": ["🩲 备换衣裤", "🧻 湿纸巾", "🛍️ 小塑料袋"]
+          }
+        },
+        {
+          "name": "Arthur Lewis Park（免费玩水）",
+          "tags": [{ "type": "free", "text": "免费" }, { "type": "green", "text": "玩水" }],
+          "tip": "免费玩水，设施好，建议提前预约",
+          "note": "免费玩水，设施不错，最好先预约",
+          "addr": "59 Greenbrook Rd, Green Brook, NJ · 约15min",
+          "mapQ": "Arthur+Lewis+Park+Green+Brook+NJ",
+          "checklist": {
+            "base": ["👙 泳衣/玩水服", "🩴 防滑拖鞋", "🏖️ 毛巾", "🧴 防晒霜", "💧 饮用水", "👚 备换干衣服", "🎒 防水袋", "📱 提前查预约"],
+            "with_stroller": ["🛒 推车防水垫"],
+            "potty_training": ["🩲 备换泳裤×2", "🧻 湿纸巾", "⚠️ 提前告知孩子玩水也要上厕所"]
+          }
+        },
+        {
+          "name": "Holland Ridge Farms",
+          "tags": [{ "type": "paid", "text": "收费" }, { "type": "warm", "text": "春天郁金香" }, { "type": "warm", "text": "秋天向日葵" }],
+          "tip": "郁金香/向日葵花田，拍照超美",
+          "addr": "86 Rues Rd, Cream Ridge, NJ · 约40min",
+          "mapQ": "Holland+Ridge+Farms+Cream+Ridge+NJ",
+          "checklist": {
+            "base": ["🧴 防晒霜", "💧 饮用水", "📸 相机/手机充满电", "🌂 遮阳帽", "💳 现金或刷卡（收费）"],
+            "with_stroller": ["⚠️ 田间土路不平，推车较难——建议带背巾代替"],
+            "no_stroller": ["🎒 背巾/背带", "👟 运动鞋（土路）"],
+            "potty_training": ["🩲 备换衣裤", "🧻 湿纸巾", "🛍️ 小塑料袋", "⚠️ 提前找好厕所位置"]
+          }
+        }
+      ],
+      "sakura": [
+        {
+          "type": "redirect",
+          "icon": "🌸",
+          "title": "赏花地点 · 已整理在「季节活动」",
+          "note": "Branch Brook Park 全美最大樱花园、Rutgers Gardens 樱花步道、Princeton Marquand Park……春季限定地点都在这里",
+          "action": "seasonal",
+          "btnText": "去季节活动查看 →"
+        }
+      ]
+    }
+  },
+  "block_meta": {
+    "general": {
+      "label": "🌳 公园",
+      "subsections": {
+        "outdoor": { "label": "室外公园" },
+        "sakura": { "label": "赏花 · 春季限定" }
+      }
+    }
+  }
+}

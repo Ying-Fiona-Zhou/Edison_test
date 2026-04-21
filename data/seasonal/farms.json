@@ -1,0 +1,133 @@
+{
+  "meta": { "section": "farms", "title": "农场推荐", "updated": "2025-04" },
+
+  "featured": {
+    "name": "Von Thun Farms ⭐ 综合最强",
+    "tagline": "Season Pass 最值 · 春夏秋三季全覆盖",
+    "desc": "Edison 周边华人家庭认可度最高的农场，有 SB（South Brunswick）和 Washington 两个分店。Season Pass 一次购买全年可用，带娃随时去，无需每次买票。活动丰富，有 playground、U-pick、农场节日",
+    "tags_meta": { "stroller_friendly": false },
+    "checklist": {
+      "base": ["防晒霜", "水/饮料", "零食", "帽子", "现金或刷卡", "旧衣服/旧鞋（泥土）"],
+      "with_stroller": ["⚠️ 田间土路推车较难，强烈建议带背巾备用"],
+      "no_stroller": ["背巾/背带", "运动鞋（土路、草地）"],
+      "potty_training": ["备换衣裤×2", "湿纸巾", "小塑料袋", "折叠便携马桶（户外厕所排队长）"]
+    },
+    "locations": [
+      {
+        "label": "South Brunswick 分店（SB）",
+        "addr": "529 Ridge Rd, Monmouth Junction, NJ",
+        "mapQ": "Von+Thun+Farms+South+Brunswick+NJ"
+      },
+      {
+        "label": "Washington 分店（W）",
+        "addr": "Von Thun Farms, Washington, NJ",
+        "mapQ": "Von+Thun+Farms+Washington+NJ"
+      }
+    ],
+    "seasons": {
+      "spring": {
+        "label": "🌸 春季（当前重点）",
+        "items": [
+          { "name": "🌷 郁金香 Tulip", "locations": ["Washington"], "dateLabel": "4月中下旬", "status": "now", "note": "Washington 分店有郁金香田" },
+          { "name": "🍓 草莓 U-pick", "locations": ["SB", "Washington"], "dateLabel": "预计 5/23 开始", "status": "soon", "note": "两个分店都可摘草莓" },
+          { "name": "🎡 Activity Area（Playground）", "locations": ["SB", "Washington"], "dateLabel": "5/16–17, 5/23–24", "status": "soon", "note": "有小型游乐区，适合幼儿" },
+          { "name": "🚜 Touch-a-Tractor", "locations": ["Washington"], "dateLabel": "5/23–24", "status": "soon", "note": "幼儿最爱，可爬上各种农用车辆" },
+          { "name": "🍓 Strawberry Festival", "locations": ["SB", "Washington"], "dateLabel": "5/30–31", "status": "soon", "note": "年度草莓节，有 U-pick + 游乐 + 美食" }
+        ]
+      },
+      "summer": {
+        "label": "🌻 夏季（占位）",
+        "items": [
+          { "name": "🫐 蓝莓 Blueberry", "dateLabel": "6–7月", "status": "future" },
+          { "name": "🌻 向日葵 Sunflower", "dateLabel": "7–8月", "status": "future" }
+        ]
+      },
+      "fall": {
+        "label": "🍁 秋季（占位）",
+        "items": [
+          { "name": "🎃 南瓜 Pumpkin", "dateLabel": "10月", "status": "future" },
+          { "name": "🌽 玉米迷宫 Corn Maze", "dateLabel": "9–11月", "status": "future" }
+        ]
+      }
+    },
+    "tags": [{"type":"green","text":"Season Pass 推荐"},{"type":"warm","text":"SB + Washington"},{"type":"green","text":"幼儿友好"}]
+  },
+
+  "others": [
+    {
+      "name": "Battleview Orchards ⭐ 性价比最强",
+      "tags": [{"type":"green","text":"性价比高"},{"type":"green","text":"人少"},{"type":"warm","text":"Freehold"}],
+      "note": "价格公道，人少不挤，慢慢摘很舒适。适合不想赶人潮的家庭，春季有草莓，秋季有苹果。强烈推荐",
+      "addr": "91 Wemrock Rd, Freehold, NJ",
+      "mapQ": "Battleview+Orchards+Freehold+NJ",
+      "seasons": ["🍓 草莓（5–6月）", "🍎 苹果（9–10月）"],
+      "tags_meta": { "stroller_friendly": false },
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "旧衣服/旧鞋", "摘果容器（或现场买）"],
+        "with_stroller": ["⚠️ 果园地面不平，建议带背巾备用"],
+        "no_stroller": ["背巾/背带", "运动鞋（草地/泥地）"],
+        "potty_training": ["备换衣裤×2", "湿纸巾", "小塑料袋"]
+      }
+    },
+    {
+      "name": "Giamarese Farm & Orchards",
+      "tags": [{"type":"warm","text":"East Brunswick"},{"type":"green","text":"近 Edison"}],
+      "note": "距 Edison 最近的农场之一，随时可以去逛逛，有时令果蔬和动物区",
+      "addr": "Giamarese Farm, East Brunswick, NJ",
+      "mapQ": "Giamarese+Farm+East+Brunswick+NJ",
+      "seasons": ["🌱 春夏（花卉/蔬菜）", "🍎 苹果（秋季）"],
+      "tags_meta": { "stroller_friendly": true },
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "零食"],
+        "with_stroller": ["推车遮阳篷"],
+        "no_stroller": ["背巾/背带"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋"]
+      }
+    },
+    {
+      "name": "Terhune Orchards",
+      "tags": [{"type":"warm","text":"Princeton"},{"type":"green","text":"动物+周末活动"}],
+      "note": "有小动物区，周末常有活动，孩子很喜欢看动物。Princeton 附近，适合顺路",
+      "addr": "330 Cold Soil Rd, Princeton, NJ",
+      "mapQ": "Terhune+Orchards+Princeton+NJ",
+      "seasons": ["🐄 动物（全年）", "🍎 苹果/蔬菜（秋季）"],
+      "tags_meta": { "stroller_friendly": true },
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "零食", "现金（喂动物/购买）"],
+        "with_stroller": ["推车遮阳篷"],
+        "no_stroller": ["背巾/背带"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋", "接触动物后及时洗手"]
+      }
+    },
+    {
+      "name": "Lee Turkey Farm",
+      "tags": [{"type":"warm","text":"East Windsor"},{"type":"gray","text":"中等人流"}],
+      "note": "草莓季可以去，人流适中，不像 Holland Ridge 那么挤。也有秋季南瓜",
+      "addr": "Lee Turkey Farm, East Windsor, NJ",
+      "mapQ": "Lee+Turkey+Farm+East+Windsor+NJ",
+      "seasons": ["🍓 草莓（5–6月）", "🎃 南瓜（10月）"],
+      "tags_meta": { "stroller_friendly": false },
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "旧衣服/旧鞋"],
+        "with_stroller": ["⚠️ 田间土路推车较难，建议带背巾"],
+        "no_stroller": ["背巾/背带", "运动鞋"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋"]
+      }
+    },
+    {
+      "name": "Holland Ridge Farms",
+      "tags": [{"type":"paid","text":"收费"},{"type":"warm","text":"春天郁金香"},{"type":"gray","text":"⚠️ 周末人很多"}],
+      "note": "郁金香花海全美知名，拍照效果极好。但周末极度拥挤，建议工作日去或开门第一批进",
+      "addr": "86 Rues Rd, Cream Ridge, NJ",
+      "mapQ": "Holland+Ridge+Farms+Cream+Ridge+NJ",
+      "seasons": ["🌷 郁金香（4月中–5月初）", "🌻 向日葵（夏季）"],
+      "tags_meta": { "stroller_friendly": false },
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "相机/手机充电", "帽子", "现金或刷卡"],
+        "with_stroller": ["⚠️ 田间土路不平，推车较难——建议背巾代替"],
+        "no_stroller": ["背巾/背带", "运动鞋（土路）"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋", "提前找好厕所位置"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "meta": { "section": "beach", "title": "海滩", "updated": "2025-04" },
+  "blocks": {
+    "beach": {
+      "popular": [
+        {
+          "name": "Sandy Hook Beach",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "设施齐全" }
+          ],
+          "tip": "设施齐全，适合家庭首选",
+          "note": "环境好、设施齐全，适合家庭+散步。注意：夏季人多",
+          "addr": "Sandy Hook, NJ · 约45min",
+          "mapQ": "Sandy+Hook+Beach+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 沙滩拖鞋（沙子很烫）",
+              "🏖️ 毛巾 × 人数",
+              "👚 替换干衣服",
+              "🧴 防晒霜 SPF50+（强烈推荐）",
+              "🌂 遮阳伞 / 遮阳帐篷",
+              "🥤 大量饮用水 + 零食",
+              "🎒 防水袋（装湿衣服/手机）",
+              "💵 现金/卡（收费入场）"
+            ],
+            "with_stroller": [
+              "🛒 沙滩推车轮（普通推车沙地难推）",
+              "🏖️ 沙滩垫（推车下面铺）"
+            ],
+            "potty_training": [
+              "🩲 多带2条泳裤",
+              "⚠️ 沙滩厕所较远，出发前上好"
+            ]
+          }
+        },
+        {
+          "name": "Asbury Park Beach",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "warm", "text": "有 Boardwalk" }
+          ],
+          "tip": "Boardwalk热闹，适合全家散步",
+          "note": "环境好、设施齐全，适合家庭+散步。注意：部分区域人较多",
+          "addr": "Asbury Park, NJ · 约1小时",
+          "mapQ": "Asbury+Park+Beach+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 沙滩拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🧴 防晒霜 SPF50+",
+              "🌂 遮阳伞",
+              "🥤 饮用水 + 零食",
+              "💵 收费入场 + Boardwalk 消费",
+              "🎒 防水袋"
+            ]
+          }
+        }
+      ],
+      "quiet": [
+        {
+          "name": "Island Beach State Park",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "自然风景" },
+            { "type": "gray", "text": "人少" }
+          ],
+          "tip": "自然风景好人少，需自备物资",
+          "note": "自然风景好、人少。注意：设施较少，需要自带东西",
+          "addr": "Island Beach State Park, NJ · 约1小时",
+          "mapQ": "Island+Beach+State+Park+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 沙滩拖鞋",
+              "🏖️ 毛巾 × 人数",
+              "👚 替换干衣服",
+              "🧴 防晒霜 SPF50+",
+              "🌂 遮阳伞（设施少，必带）",
+              "🍱 自带食物 + 大量饮用水（没有小卖部）",
+              "🧺 沙滩椅/垫",
+              "🎒 防水袋",
+              "💵 收费入场"
+            ]
+          }
+        }
+      ],
+      "boardwalk": [
+        {
+          "name": "Jenkinson's Boardwalk",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "游乐+小吃" },
+            { "type": "blue", "text": "aquarium" }
+          ],
+          "tip": "游乐+小吃+水族馆，小朋友必爱",
+          "note": "游乐设施+小吃+aquarium，适合小朋友玩乐",
+          "addr": "300 Ocean Ave, Point Pleasant Beach, NJ · 约1小时",
+          "mapQ": "Jenkinsons+Boardwalk+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣（如要下水）",
+              "🩴 舒适鞋子（走路多）",
+              "🏖️ 毛巾（备用）",
+              "👚 替换衣服",
+              "🧴 防晒霜",
+              "💵 现金（游乐设施/小吃单独收费）",
+              "🎒 背包装零碎物品"
+            ]
+          }
+        },
+        {
+          "name": "Long Branch Beach / Pier Village",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "散步拍照" },
+            { "type": "warm", "text": "餐厅多" }
+          ],
+          "tip": "拍照+吃饭，周末打卡好去处",
+          "note": "Pier Village 好看+餐厅多，适合轻松散步。注意：周末拥挤",
+          "addr": "Long Branch, NJ · 约1小时",
+          "mapQ": "Pier+Village+Long+Branch+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣（如要下水）",
+              "🩴 舒适拖鞋/凉鞋",
+              "🏖️ 毛巾",
+              "🧴 防晒霜",
+              "💵 餐厅消费准备",
+              "📸 相机/手机充电"
+            ]
+          }
+        }
+      ],
+      "weekend_trip": [
+        {
+          "name": "Cape May Beach",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "风景极好" },
+            { "type": "gray", "text": "周末旅行" }
+          ],
+          "tip": "风景极佳，值得专程周末来",
+          "note": "风景好、干净、氛围好，非常适合周末小旅行。注意：距离约2.5–3小时",
+          "addr": "Cape May, NJ · 约2.5–3小时",
+          "mapQ": "Cape+May+Beach+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣 × 2套",
+              "🩴 沙滩拖鞋",
+              "🏖️ 毛巾 × 人数 × 2条",
+              "👚 替换衣服（多天）",
+              "🧴 防晒霜 SPF50+",
+              "🌂 遮阳伞",
+              "🥤 大量饮用水 + 零食",
+              "🏨 提前订好住宿",
+              "💵 收费入场 + 餐饮",
+              "🎒 行李箱/大包"
+            ]
+          }
+        },
+        {
+          "name": "Ocean City Beach",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "家庭度假" },
+            { "type": "blue", "text": "非常适合带娃" }
+          ],
+          "tip": "专为家庭设计，带娃度假首选",
+          "note": "非常适合家庭度假带娃。注意：距离较远",
+          "addr": "Ocean City, NJ · 约2小时",
+          "mapQ": "Ocean+City+Beach+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣 × 2套",
+              "🩴 沙滩拖鞋",
+              "🏖️ 毛巾 × 人数",
+              "👚 替换衣服",
+              "🧴 防晒霜 SPF50+",
+              "🌂 遮阳伞",
+              "🥤 饮用水 + 零食",
+              "🏨 提前订住宿",
+              "💵 收费+餐饮预算",
+              "🎒 防水袋"
+            ]
+          }
+        },
+        {
+          "name": "Wildwood Beach",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "沙滩超大" },
+            { "type": "gray", "text": "孩子跑跳" }
+          ],
+          "tip": "沙滩宽阔，孩子跑跑跳跳超爽",
+          "note": "沙滩很大很平，适合孩子跑跳。注意：走到水边比较远",
+          "addr": "Wildwood, NJ · 约2小时",
+          "mapQ": "Wildwood+Beach+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣",
+              "🩴 沙滩拖鞋（沙滩很宽，走很久）",
+              "🏖️ 毛巾 × 人数",
+              "👚 替换衣服",
+              "🧴 防晒霜 SPF50+",
+              "🌂 遮阳伞",
+              "🥤 大量饮用水（路程远易渴）",
+              "💵 收费入场",
+              "🎒 防水袋"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "block_meta": {
+    "beach": {
+      "label": "🏖️ 海滩",
+      "subsections": {
+        "popular": { "label": "近（45min内·高频推荐）", "style": "blue" },
+        "quiet": { "label": "安静海滩", "style": "blue" },
+        "boardwalk": { "label": "Boardwalk 游乐型", "style": "blue" },
+        "weekend_trip": { "label": "周末小旅行（稍远但值得）", "style": "blue" }
+      }
+    }
+  }
+}

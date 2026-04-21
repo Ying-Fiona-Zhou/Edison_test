@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "section": "events",
+    "title": "近期活动",
+    "updated": "2025-04"
+  },
+  "events": [
+    {
+      "id": "sakura-branch-brook",
+      "status": "now",
+      "title": "🌸 Branch Brook Park 樱花",
+      "subtitle": "全美最大樱花园 · Newark, NJ",
+      "dateLabel": "3月底 – 4月中旬",
+      "dateStart": "03-25",
+      "dateEnd": "04-20",
+      "ageLabel": "全年龄",
+      "highlight": "约4000棵 · 比华盛顿DC还多",
+      "note": "全美最大樱花园，品种丰富,步道很长，推荐早上去人少光线好。无需购票，免费入园。附近有停车场但周末会满",
+      "warn": "周末人多，建议平日或早上9点前",
+      "tags": [
+        {"type": "free", "text": "免费"},
+        {"type": "warm", "text": "Newark NJ"},
+        {"type": "green", "text": "全美最大"},
+        {"type": "warm", "text": "4月限定"}
+      ],
+      "addr": "Branch Brook Park, Newark, NJ · 距Edison约30min",
+      "mapQ": "Branch+Brook+Park+Newark+NJ",
+      "website": "https://branchbrookpark.org",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "零食", "帽子", "相机/手机充满电", "野餐垫（可选）"],
+        "with_stroller": ["推车遮阳篷", "步道平坦，推车友好"],
+        "no_stroller": ["背巾/背带", "舒适步行鞋"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋", "提前找好公园厕所位置"]
+      }
+    },
+    {
+      "id": "sakura-rutgers",
+      "status": "now",
+      "title": "🌸 Rutgers Gardens 樱花步道",
+      "subtitle": "近Edison首选 · North Brunswick, NJ",
+      "dateLabel": "4月上中旬",
+      "dateStart": "04-01",
+      "dateEnd": "04-20",
+      "ageLabel": "全年龄",
+      "highlight": "距Edison最近 · 免费 · 好停车",
+      "note": "Edison 周边最近的赏花地，步道漂亮，停车方便，人也不挤。无 playground，适合散步拍照。春天还有各种花卉同期开放",
+      "tags": [
+        {"type": "free", "text": "免费"},
+        {"type": "warm", "text": "近Edison"},
+        {"type": "green", "text": "好停车"}
+      ],
+      "addr": "112 Log Cabin Rd, North Brunswick, NJ · 距Edison约10min",
+      "mapQ": "Rutgers+Gardens+North+Brunswick+NJ",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "相机/手机充满电"],
+        "with_stroller": ["推车遮阳篷", "步道友好"],
+        "no_stroller": ["背巾/背带", "舒适步行鞋"],
+        "potty_training": ["备换衣裤", "湿纸巾", "提前找好厕所"]
+      }
+    },
+    {
+      "id": "sakura-brooklyn-botanic",
+      "status": "now",
+      "title": "🌸 Brooklyn Botanic Garden 樱花祭",
+      "subtitle": "Sakura Matsuri · Brooklyn, NY",
+      "dateLabel": "4月下旬（约4/26–27）",
+      "dateStart": "04-26",
+      "dateEnd": "04-27",
+      "ageLabel": "全年龄",
+      "highlight": "日式樱花祭 · 文化活动 + 赏花",
+      "note": "纽约最著名的日式樱花祭，有太鼓表演、日本文化展览、樱花步道。建议提前购票，周末人非常多。开车距Edison约1小时，也可坐地铁",
+      "warn": "需提前购票，Sakura Matsuri节日票价高于普通票",
+      "tags": [
+        {"type": "paid", "text": "收费"},
+        {"type": "warm", "text": "Brooklyn NY"},
+        {"type": "green", "text": "日式樱花祭"},
+        {"type": "warm", "text": "4月限定"}
+      ],
+      "addr": "Brooklyn Botanic Garden, 990 Washington Ave, Brooklyn, NY · 距Edison约1hr",
+      "mapQ": "Brooklyn+Botanic+Garden+NY",
+      "website": "https://www.bbg.org/visit/sakura_matsuri",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "零食", "帽子", "相机/手机充满电", "提前购票（打印或手机）", "现金（活动摊位）"],
+        "with_stroller": ["推车遮阳篷", "人多时推车较难，建议带背巾备用"],
+        "no_stroller": ["背巾/背带", "舒适步行鞋"],
+        "potty_training": ["备换衣裤×2", "湿纸巾", "小塑料袋", "人多厕所排队长"]
+      }
+    },
+    {
+      "id": "sakura-central-park",
+      "status": "now",
+      "title": "🌸 Central Park 樱花",
+      "subtitle": "免费赏花 · Manhattan, NY",
+      "dateLabel": "4月上中旬",
+      "dateStart": "04-01",
+      "dateEnd": "04-20",
+      "ageLabel": "全年龄",
+      "highlight": "免费 · 顺路NYC游玩",
+      "note": "Central Park 内多处有樱花，以 Cherry Hill 和 The Mall 附近最集中。免费进入，适合顺道NYC行程一并安排。人多但公园大，不会太挤",
+      "tags": [
+        {"type": "free", "text": "免费"},
+        {"type": "warm", "text": "Manhattan NY"},
+        {"type": "green", "text": "顺路NYC"}
+      ],
+      "addr": "Central Park, Cherry Hill area, New York, NY · 距Edison约1hr",
+      "mapQ": "Central+Park+Cherry+Hill+New+York",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "零食", "帽子", "相机/手机充满电", "野餐垫（可选）"],
+        "with_stroller": ["推车遮阳篷", "公园步道平坦"],
+        "no_stroller": ["背巾/背带", "舒适步行鞋"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋", "公园内有多个厕所"]
+      }
+    },
+    {
+      "id": "sakura-prospect-park",
+      "status": "now",
+      "title": "🌸 Prospect Park 樱花",
+      "subtitle": "人少版纽约赏花 · Brooklyn, NY",
+      "dateLabel": "4月上中旬",
+      "dateStart": "04-01",
+      "dateEnd": "04-20",
+      "ageLabel": "全年龄",
+      "highlight": "人比Central Park少 · 有大草坪野餐",
+      "note": "Brooklyn 本地人更爱去的公园，樱花分布在公园各处，有大草坪可以铺毯子野餐，带娃很舒适。和Brooklyn Botanic Garden相邻，可以两个一起安排",
+      "tags": [
+        {"type": "free", "text": "免费"},
+        {"type": "warm", "text": "Brooklyn NY"},
+        {"type": "green", "text": "野餐友好"}
+      ],
+      "addr": "Prospect Park, Brooklyn, NY · 距Edison约1hr",
+      "mapQ": "Prospect+Park+Brooklyn+NY+cherry+blossoms",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "零食", "帽子", "相机/手机充满电", "野餐垫", "飞盘/球等野餐玩具"],
+        "with_stroller": ["推车遮阳篷", "公园步道平坦"],
+        "no_stroller": ["背巾/背带", "舒适步行鞋"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋", "野餐后及时找厕所"]
+      }
+    },
+    {
+      "id": "tulip-holland",
+      "status": "now",
+      "title": "🌷 Tulip Festival",
+      "subtitle": "Holland Ridge Farms",
+      "dateLabel": "4月中旬 – 5月初",
+      "dateStart": "04-10",
+      "dateEnd": "05-05",
+      "ageLabel": "1–6岁",
+      "highlight": "花海 / 拍照打卡",
+      "note": "全美最美郁金香花海，周末极度拥挤，建议工作日或早上开门即去。需购票入场，草莓季前后结束",
+      "warn": "周末人很多，停车难",
+      "tags": [
+        {"type": "paid", "text": "收费"},
+        {"type": "warm", "text": "拍照圣地"},
+        {"type": "gray", "text": "⚠️ 周末拥挤"}
+      ],
+      "addr": "86 Rues Rd, Cream Ridge, NJ",
+      "mapQ": "Holland+Ridge+Farms+Cream+Ridge+NJ",
+      "website": "https://hollandridgefarms.com",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "相机/手机充满电+充电宝", "现金或刷卡", "旧衣服/旧鞋（泥土）"],
+        "with_stroller": ["⚠️ 田间土路不平，推车很难——强烈建议背巾代替"],
+        "no_stroller": ["背巾/背带", "运动鞋（土路）", "防水鞋套（下雨后泥泞）"],
+        "potty_training": ["备换衣裤×2", "湿纸巾", "小塑料袋", "提前找好厕所位置", "人多排队长"]
+      }
+    },
+    {
+      "id": "tulip-dalton",
+      "status": "now",
+      "title": "🌷 Tulip U-Pick（人少版）",
+      "subtitle": "Dalton Farms",
+      "dateLabel": "4月中旬 – 5月初",
+      "dateStart": "04-15",
+      "dateEnd": "05-05",
+      "ageLabel": "1–6岁",
+      "highlight": "自摘郁金香 · 更轻松",
+      "note": "比 Holland Ridge 人少很多，可以自己动手摘花，更适合带小娃慢慢逛。氛围轻松友好",
+      "tags": [
+        {"type": "paid", "text": "收费"},
+        {"type": "green", "text": "人少轻松"},
+        {"type": "warm", "text": "u-pick"}
+      ],
+      "addr": "Dalton Farms, NJ",
+      "mapQ": "Dalton+Farms+NJ+tulip",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "剪刀（可选，农场通常提供）", "现金或刷卡", "旧衣服/旧鞋"],
+        "with_stroller": ["⚠️ 田间推车较难，建议带背巾备用"],
+        "no_stroller": ["背巾/背带", "运动鞋"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋"]
+      }
+    },
+    {
+      "id": "fair-metuchen",
+      "status": "soon",
+      "title": "🎡 Spring Street Fair",
+      "subtitle": "Metuchen Downtown",
+      "dateLabel": "5月15日（周四）",
+      "dateStart": "05-15",
+      "dateEnd": "05-15",
+      "timeLabel": "11:00 – 17:00",
+      "highlight": "food truck / 逛街 / 本地小摊",
+      "note": "Metuchen 市区春季街头集市，有 food truck、手工艺品摊位，逛逛很放松。带娃随便逛逛，不需要太多计划",
+      "tags": [
+        {"type": "free", "text": "免费入场"},
+        {"type": "warm", "text": "Metuchen"},
+        {"type": "green", "text": "food truck"}
+      ],
+      "addr": "Metuchen Downtown, NJ",
+      "mapQ": "Metuchen+Downtown+NJ",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "购物袋（环保袋）", "现金（小摊位可能不收卡）", "零钱"],
+        "with_stroller": ["推车遮阳篷", "街道平坦，推车友好"],
+        "no_stroller": ["背巾/背带"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋", "找好附近店铺厕所"]
+      }
+    },
+    {
+      "id": "fair-woodbridge",
+      "status": "soon",
+      "title": "🎡 Spring Street Fair",
+      "subtitle": "Woodbridge Township",
+      "dateLabel": "5月16日（周五）",
+      "dateStart": "05-16",
+      "dateEnd": "05-16",
+      "timeLabel": "11:00 起",
+      "highlight": "人少 · 轻松逛",
+      "note": "比 Metuchen 那场人少，适合不想人挤人的家庭。距 Edison 更近",
+      "tags": [
+        {"type": "free", "text": "免费入场"},
+        {"type": "warm", "text": "Woodbridge"},
+        {"type": "green", "text": "人少"}
+      ],
+      "addr": "Woodbridge Township, NJ",
+      "mapQ": "Woodbridge+Township+NJ+street+fair",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "帽子", "购物袋", "现金+零钱"],
+        "with_stroller": ["推车遮阳篷", "街道平坦"],
+        "no_stroller": ["背巾/背带"],
+        "potty_training": ["备换衣裤", "湿纸巾", "小塑料袋"]
+      }
+    },
+    {
+      "id": "tractor-vonthun",
+      "status": "soon",
+      "title": "🚜 Touch-a-Tractor",
+      "subtitle": "Von Thun Farms · Washington",
+      "dateLabel": "5月23–24日",
+      "dateStart": "05-23",
+      "dateEnd": "05-24",
+      "ageLabel": "1–5岁",
+      "highlight": "幼儿超爱 · 爆款活动",
+      "note": "可以爬上各种农用车辆，幼儿非常喜欢。同期有草莓 U-pick 和 playground，一次出行玩三件事，强烈推荐",
+      "tags": [
+        {"type": "paid", "text": "收费"},
+        {"type": "warm", "text": "Washington分店"},
+        {"type": "green", "text": "幼儿爆款"}
+      ],
+      "addr": "Von Thun Farms, Washington, NJ",
+      "mapQ": "Von+Thun+Farms+Washington+NJ",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "零食", "帽子", "现金或刷卡", "旧衣服/旧鞋（会脏）", "湿纸巾（摸完拖拉机洗手）"],
+        "with_stroller": ["⚠️ 田间土路推车较难，强烈建议带背巾备用"],
+        "no_stroller": ["背巾/背带", "运动鞋"],
+        "potty_training": ["备换衣裤×2", "湿纸巾", "小塑料袋", "户外厕所排队长"]
+      }
+    },
+    {
+      "id": "strawberry-fest",
+      "status": "soon",
+      "title": "🍓 Strawberry Festival",
+      "subtitle": "Von Thun Farms",
+      "dateLabel": "5月30–31日",
+      "dateStart": "05-30",
+      "dateEnd": "05-31",
+      "ageLabel": "1–6岁",
+      "highlight": "年度草莓农场节",
+      "note": "Von Thun 年度草莓节，有 U-pick、游乐区、食品摊位，是华人家庭春末必去活动之一。建议早去避免下午排队",
+      "tags": [
+        {"type": "paid", "text": "收费"},
+        {"type": "warm", "text": "SB + Washington"},
+        {"type": "green", "text": "年度活动"}
+      ],
+      "addr": "Von Thun Farms, NJ（SB + Washington 两个点）",
+      "mapQ": "Von+Thun+Farms+NJ",
+      "checklist": {
+        "base": ["防晒霜", "水/饮料", "零食", "帽子", "现金或刷卡", "旧衣服/旧鞋（泥土）", "摘草莓容器（或现场买）"],
+        "with_stroller": ["⚠️ 田间土路推车较难，强烈建议带背巾备用"],
+        "no_stroller": ["背巾/背带", "运动鞋（土路、草地）"],
+        "potty_training": ["备换衣裤×2", "湿纸巾", "小塑料袋", "折叠便携马桶（户外厕所排队长）"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "name": "YMCA Piscataway",
+    "short": "Piscataway Y",
+    "season": "当前课表",
+    "address": "Piscataway Community Center, Piscataway NJ",
+    "url": "https://www.ymcaofmiddlesexcounty.org",
+    "notes": [
+      "先到先得，满员截止",
+      "建议自带瑜伽/健身垫",
+      "所有课程准时开始和结束，迟到不可入场"
+    ],
+    "rooms": {
+      "BC": "篮球场 (Basketball Court)",
+      "CR": "单车室 (Cycling Room)",
+      "DS": "舞蹈室 (Dance Studio)",
+      "ST": "健身中心 Studio 3B"
+    }
+  },
+  "schedule": {
+    "Monday": [
+      { "time": "9:00-9:55am",   "class": "Cardio Kickboxing",  "room": "DS", "instructor": "Neil" },
+      { "time": "10:00-10:55am", "class": "Zumba",              "room": "DS", "instructor": "Candice" },
+      { "time": "9:30-10:20am",  "class": "Group Cycling*",     "room": "CR", "instructor": "Amanda" },
+      { "time": "6:00-6:55pm",   "class": "Zumba Toning",       "room": "DS", "instructor": "Lisa" },
+      { "time": "6:00-6:50pm",   "class": "Group Cycling*",     "room": "CR", "instructor": "Elizabeth" },
+      { "time": "7:15-8:00pm",   "class": "Total Body",         "room": "DS", "instructor": "Eleonor" }
+    ],
+    "Tuesday": [
+      { "time": "9:30-10:20am",  "class": "Step & Sculpt",      "room": "DS", "instructor": "Amanda" },
+      { "time": "10:30-11:25am", "class": "Pilates",            "room": "DS", "instructor": "Candice" },
+      { "time": "5:00-5:50pm",   "class": "Strength and Tone",  "room": "DS", "instructor": "JaNay" },
+      { "time": "6:00-6:55pm",   "class": "Hip-Hop Step",       "room": "DS", "instructor": "JaNay" },
+      { "time": "7:00-7:30pm",   "class": "Stretch",            "room": "ST", "instructor": "JaNay" },
+      { "time": "7:00-7:55pm",   "class": "Zumba",              "room": "BC", "instructor": "DJ" }
+    ],
+    "Wednesday": [
+      { "time": "7:00-7:55am",   "class": "Power Yoga",         "room": "DS", "instructor": "Jamie" },
+      { "time": "8:00-8:55am",   "class": "Retro Low-Impact Aerobics", "room": "DS", "instructor": "Kathi" },
+      { "time": "9:00-9:55am",   "class": "Strength and Tone",  "room": "DS", "instructor": "Kathi" },
+      { "time": "10:00-10:50am", "class": "Yoga",               "room": "DS", "instructor": "Kathi" },
+      { "time": "11:00-11:55am", "class": "Fit for Life",       "room": "DS", "instructor": "Kathi" },
+      { "time": "5:00-5:55pm",   "class": "HIIT",               "room": "DS", "instructor": "Neil" },
+      { "time": "6:00-6:55pm",   "class": "Zumba",              "room": "DS", "instructor": "Lisa" },
+      { "time": "7:00-7:55pm",   "class": "Yoga",               "room": "DS", "instructor": "Alaina" }
+    ],
+    "Thursday": [
+      { "time": "9:00-9:55am",   "class": "Zumba Gold",         "room": "DS", "instructor": "Lisa" },
+      { "time": "9:30-10:20am",  "class": "Group Cycling*",     "room": "CR", "instructor": "Amanda" },
+      { "time": "10:00-10:55am", "class": "Hip-Hop Step",       "room": "BC", "instructor": "JaNay" },
+      { "time": "11:00-11:55am", "class": "Chair Yoga",         "room": "DS", "instructor": "Kathi" },
+      { "time": "5:00-5:50pm",   "class": "Total Body",         "room": "DS", "instructor": "Eleonor" },
+      { "time": "6:00-6:50pm",   "class": "Zumba",              "room": "BC", "instructor": "Elizabeth" },
+      { "time": "6:00-6:55pm",   "class": "Yoga",               "room": "DS", "instructor": "Cheryl" },
+      { "time": "6:15-7:00pm",   "class": "Group Cycle*",       "room": "CR", "instructor": "JaNay" },
+      { "time": "7:00-7:55pm",   "class": "Barre",              "room": "DS", "instructor": "Cheryl" }
+    ],
+    "Friday": [
+      { "time": "9:30-10:20am",  "class": "Cardio BOOM",        "room": "DS", "instructor": "Amanda" },
+      { "time": "10:30-11:25am", "class": "Zumba Gold Toning",  "room": "DS", "instructor": "Lisa" }
+    ],
+    "Saturday": [
+      { "time": "8:00-8:50am",   "class": "Yogalates",          "room": "DS", "instructor": "Candice" },
+      { "time": "9:00-9:55am",   "class": "Zumba",              "room": "DS", "instructor": "Candice" },
+      { "time": "10:00-10:55am", "class": "Hip-Hop Step",       "room": "DS", "instructor": "Kaleia" },
+      { "time": "10:00-10:50am", "class": "Group Cycling*",     "room": "CR", "instructor": "Marilyn" }
+    ],
+    "Sunday": [
+      { "time": "8:00-8:55am",   "class": "HIIT",               "room": "DS", "instructor": "Neil" },
+      { "time": "9:00-9:55am",   "class": "Yoga",               "room": "DS", "instructor": "Cheryl" },
+      { "time": "10:00-10:55am", "class": "Barre",              "room": "DS", "instructor": "Cheryl" }
+    ]
+  },
+  "class_descriptions": {
+    "Cardio Kickboxing": "搏击有氧，全身燃脂",
+    "Cardio BOOM": "高能有氧训练",
+    "Step & Sculpt": "台阶有氧 + 塑形",
+    "Pilates": "强化核心柔韧性和肌耐力",
+    "Power Yoga": "力量瑜伽，强化体能",
+    "Retro Low-Impact Aerobics": "低冲击复古有氧，适合各年龄",
+    "Strength and Tone": "力量 + 塑形综合训练",
+    "Yoga": "通过体式提升柔韧性和力量",
+    "Fit for Life": "功能性健身，适合日常生活需求",
+    "HIIT": "高强度间歇训练",
+    "Zumba": "拉丁舞蹈健身派对",
+    "Zumba Gold": "低冲击版 Zumba，适合中老年人",
+    "Zumba Gold Toning": "低冲击 Zumba + 轻哑铃塑形",
+    "Zumba Toning": "Zumba + 轻哑铃塑形",
+    "Hip-Hop Step": "嘻哈风台阶有氧",
+    "Chair Yoga": "椅子辅助瑜伽，适合行动不便人群",
+    "Total Body": "全身综合训练",
+    "Yogalates": "瑜伽 + Pilates 融合",
+    "Barre": "芭蕾把杆训练，塑形提臀",
+    "Group Cycling*": "室内单车有氧（*需额外预约）",
+    "Stretch": "拉伸放松",
+    "Cardio Kickboxing": "搏击有氧"
+  }
+}

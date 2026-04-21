@@ -1,0 +1,213 @@
+{
+  "meta": { "section": "water", "title": "免费玩水", "updated": "2025-04" },
+  "blocks": {
+    "water": {
+      "near": [
+        {
+          "name": "Edison Splash Pad（Papaianni Park）⭐",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "blue", "text": "💦 splash pad" },
+            { "type": "green", "text": "本地首选" },
+            { "type": "gray", "text": "1–8岁" }
+          ],
+          "tip": "离家最近，随时说去就去",
+          "note": "Edison本地，离家近、随时可去。夏天热门建议早点或傍晚去",
+          "addr": "Papaianni Park, Edison, NJ · 本地",
+          "mapQ": "Papaianni+Park+Edison+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣（提前穿好更方便）",
+              "🩴 防滑拖鞋或水鞋",
+              "🏖️ 毛巾 × 人数（多带一条）",
+              "👚 替换干衣服",
+              "🧴 防晒霜（出发前涂好）",
+              "💧 饮用水 / 饮料",
+              "🌂 遮阳帽或遮阳伞",
+              "🎒 防水袋或塑料袋（装湿衣服）"
+            ],
+            "with_stroller": [
+              "🛒 推车防水垫（湿着坐回来用）"
+            ],
+            "potty_training": [
+              "🩲 多带1–2条泳裤/训练裤",
+              "⚠️ 提前告诉孩子「玩水前先上厕所」"
+            ]
+          }
+        },
+        {
+          "name": "Arthur Lewis Park",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "blue", "text": "💦 玩水" },
+            { "type": "green", "text": "设施不错" },
+            { "type": "gray", "text": "全年龄" }
+          ],
+          "tip": "设施好，建议提前预约",
+          "note": "免费玩水，设施不错，最好先预约",
+          "addr": "59 Greenbrook Rd, Green Brook, NJ · 约15min",
+          "mapQ": "Arthur+Lewis+Park+Green+Brook+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 防滑拖鞋或水鞋",
+              "🏖️ 毛巾 × 人数",
+              "👚 替换干衣服",
+              "🧴 防晒霜",
+              "💧 饮用水",
+              "📱 提前查预约情况",
+              "🎒 防水袋"
+            ],
+            "potty_training": [
+              "🩲 多带备用泳裤",
+              "⚠️ 出发前上厕所"
+            ]
+          }
+        },
+        {
+          "name": "Veterans Park Splash Pad",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "blue", "text": "💦 splash pad" },
+            { "type": "gray", "text": "相对不挤" },
+            { "type": "gray", "text": "1–8岁" }
+          ],
+          "tip": "人少设施简单，轻松随意",
+          "note": "相对不那么拥挤，设施简单",
+          "addr": "Veterans Park, Edison, NJ · 约15min",
+          "mapQ": "Veterans+Park+Edison+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🧴 防晒霜",
+              "💧 饮用水",
+              "🎒 防水袋"
+            ]
+          }
+        },
+        {
+          "name": "Donaldson Park Splash Area",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "blue", "text": "💦 水区" },
+            { "type": "green", "text": "环境好" },
+            { "type": "gray", "text": "全年龄" }
+          ],
+          "tip": "环境漂亮，玩水+公园连着逛",
+          "note": "水区+公园环境很好，不是大型水乐园，适合轻松玩水",
+          "addr": "526 S 2nd Ave, Highland Park, NJ · 约10min",
+          "mapQ": "Donaldson+Park+Highland+Park+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🧴 防晒霜",
+              "💧 饮用水",
+              "🧺 野餐垫（草坪很大）",
+              "🎒 防水袋"
+            ]
+          }
+        }
+      ],
+      "farther": [
+        {
+          "name": "West Windsor Community Park Splash Pad",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "blue", "text": "💦 大型splash pad" },
+            { "type": "green", "text": "各年龄" },
+            { "type": "gray", "text": "1–12岁" }
+          ],
+          "tip": "空间大适合各年龄，周末早去",
+          "note": "空间大，各年龄都适合。注意：周末人多",
+          "addr": "West Windsor, NJ · 约30min",
+          "mapQ": "West+Windsor+Community+Park+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣（提前穿好）",
+              "🩴 防滑拖鞋或水鞋",
+              "🏖️ 毛巾 × 人数",
+              "👚 替换干衣服",
+              "🧴 防晒霜（提前涂）",
+              "💧 饮用水 / 零食",
+              "🌂 遮阳帽",
+              "🎒 防水袋"
+            ],
+            "with_stroller": [
+              "🛒 推车防水垫",
+              "⚠️ 周末停车位紧张，建议早到"
+            ],
+            "potty_training": [
+              "🩲 多带1–2条泳裤",
+              "⚠️ 提前上厕所，现场卫生间有但排队"
+            ]
+          }
+        },
+        {
+          "name": "Mercer County Park Sprayground",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "blue", "text": "💦 水区" },
+            { "type": "green", "text": "设施新" },
+            { "type": "gray", "text": "1–10岁" }
+          ],
+          "tip": "设施新，高峰期停车难，早点出发",
+          "note": "设施比较新，适合家庭。注意：停车高峰紧张",
+          "addr": "Mercer County Park, NJ · 约30min",
+          "mapQ": "Mercer+County+Park+Sprayground+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🧴 防晒霜",
+              "💧 饮用水",
+              "⚠️ 高峰期停车难，建议平日去或早到",
+              "🎒 防水袋"
+            ]
+          }
+        },
+        {
+          "name": "Thompson Park Splash Pad",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "blue", "text": "💦 splash pad" },
+            { "type": "gray", "text": "人相对少" },
+            { "type": "gray", "text": "1–10岁" }
+          ],
+          "tip": "人少规模中等，顺便逛公园",
+          "note": "人相对少，规模中等",
+          "addr": "Thompson Park, Monroe, NJ · 约25–30min",
+          "mapQ": "Thompson+Park+Splash+Pad+Monroe+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🧴 防晒霜",
+              "💧 饮用水",
+              "🧺 野餐垫（公园草坪大）",
+              "🎒 防水袋"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "block_meta": {
+    "water": {
+      "label": "💦 免费玩水",
+      "subsections": {
+        "near": { "label": "近Edison（30min内）" },
+        "farther": { "label": "稍远（30–60min）" }
+      }
+    }
+  }
+}

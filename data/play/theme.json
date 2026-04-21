@@ -1,0 +1,257 @@
+{
+  "meta": { "section": "theme", "title": "主题乐园", "updated": "2025-04" },
+  "blocks": {
+    "theme": {
+      "toddler": [
+        {
+          "name": "LEGOLAND Discovery Center",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "室内" },
+            { "type": "nature", "text": "2–7岁" }
+          ],
+          "tip": "室内安全，2–7岁乐高迷必去",
+          "note": "室内安全，互动性强，乐高主题。场地不大，高峰期会挤",
+          "addr": "1 American Dream Way, East Rutherford, NJ · 约40–50min",
+          "mapQ": "LEGOLAND+Discovery+Center+NJ",
+          "checklist": {
+            "base": [
+              "💳 提前网购票（现场票贵很多）",
+              "👟 舒适运动鞋",
+              "💧 饮用水",
+              "🍱 可自带零食（内部餐饮贵）",
+              "⚠️ 高峰期会挤，平日去更舒适"
+            ]
+          }
+        },
+        {
+          "name": "Land of Make Believe",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "项目温和" },
+            { "type": "nature", "text": "3–8岁" }
+          ],
+          "tip": "小型温和游乐园+水乐园，小孩无压力",
+          "note": "小型游乐园+水乐园，项目温和，适合小朋友。设施偏老旧",
+          "addr": "354 Great Meadows Rd, Hope, NJ · 约1小时",
+          "mapQ": "Land+of+Make+Believe+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣（有水乐园）",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🧴 防晒霜",
+              "💳 网购票",
+              "💧 饮用水 + 零食"
+            ]
+          }
+        }
+      ],
+      "recommended_toddler": [
+        {
+          "name": "Sesame Place ⭐ 强推",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "warm", "text": "PA·约1小时" },
+            { "type": "nature", "text": "2–10岁" }
+          ],
+          "tip": "Elmo/Cookie Monster粉丝天堂，强烈推荐",
+          "note": "芝麻街IP（Elmo/Cookie Monster），水+陆双乐园，有parade和character meet。低幼家庭无脑首选，提前网购票更便宜",
+          "addr": "100 Sesame Rd, Langhorne, PA",
+          "mapQ": "Sesame+Place+Langhorne+PA",
+          "checklist": {
+            "base": [
+              "👙 泳衣 × 2套（水陆都玩）",
+              "🩴 防滑水鞋",
+              "🏖️ 毛巾 × 人数",
+              "👚 替换衣服",
+              "🧴 防晒霜 SPF50+（全天户外）",
+              "🌂 遮阳帽",
+              "💧 大量饮用水 + 零食",
+              "💳 提前网购票（便宜很多）",
+              "🎒 防水袋",
+              "⚠️ 热门角色见面需提前排队"
+            ],
+            "with_stroller": [
+              "🛒 轻便折叠推车（园内可推）"
+            ]
+          }
+        },
+        {
+          "name": "Dutch Wonderland ⭐ 强推",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "warm", "text": "PA·约2小时" },
+            { "type": "nature", "text": "2–8岁" }
+          ],
+          "tip": "专为小孩设计，门槛低，玩得爽",
+          "note": "专门为小孩设计（「Kingdom for Kids」），ride高度门槛低，有水区",
+          "addr": "2141 Lincoln Hwy E, Lancaster, PA",
+          "mapQ": "Dutch+Wonderland+Lancaster+PA",
+          "checklist": {
+            "base": [
+              "👙 泳衣（有水区）",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换衣服",
+              "🧴 防晒霜",
+              "💧 饮用水 + 零食",
+              "💳 提前网购票",
+              "🏨 如过夜提前订住宿（Lancaster周边多）"
+            ]
+          }
+        },
+        {
+          "name": "Hersheypark",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "warm", "text": "PA·约2.5小时" },
+            { "type": "nature", "text": "3岁+" }
+          ],
+          "tip": "巧克力主题，ride分级清晰，周末旅行必选",
+          "note": "巧克力主题，ride分级清晰，有water park。适合周末小旅行级别",
+          "addr": "100 W Hersheypark Dr, Hershey, PA",
+          "mapQ": "Hersheypark+Hershey+PA",
+          "checklist": {
+            "base": [
+              "👙 泳衣（水上乐园）",
+              "🩴 防滑水鞋",
+              "🏖️ 毛巾",
+              "👚 替换衣服",
+              "🧴 防晒霜 SPF50+",
+              "💧 大量饮用水",
+              "💳 提前网购票+预订停车",
+              "🏨 附近住宿提前订（Hershey Lodge推荐）",
+              "🎒 防水袋"
+            ]
+          }
+        }
+      ],
+      "general": [
+        {
+          "name": "Dorney Park & Wildwater Kingdom",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "水乐园+游乐园" },
+            { "type": "gray", "text": "5岁+" }
+          ],
+          "tip": "性价比高，项目多，5岁+家庭好选择",
+          "note": "项目多，性价比不错，有水乐园",
+          "addr": "3830 Dorney Park Rd, Allentown, PA · 约1–1.5小时",
+          "mapQ": "Dorney+Park+Allentown+PA",
+          "checklist": {
+            "base": [
+              "👙 泳衣",
+              "🩴 防滑水鞋",
+              "🏖️ 毛巾",
+              "👚 替换衣服",
+              "🧴 防晒霜",
+              "💧 饮用水 + 零食",
+              "💳 提前网购票"
+            ]
+          }
+        },
+        {
+          "name": "Six Flags Great Adventure",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "nature", "text": "刺激" },
+            { "type": "gray", "text": "大孩子/成人" }
+          ],
+          "tip": "过山车大型主题乐园，适合大孩子和成人",
+          "note": "大型主题乐园，过山车很多很刺激。不太适合小宝宝",
+          "addr": "1 Six Flags Blvd, Jackson, NJ · 约50–60min",
+          "mapQ": "Six+Flags+Great+Adventure+NJ",
+          "checklist": {
+            "base": [
+              "👟 防滑运动鞋",
+              "👕 运动服（过山车风大）",
+              "🧴 防晒霜",
+              "💧 饮用水（内部售卖贵）",
+              "💳 提前网购票+停车券",
+              "🔒 小包/腰包（过山车上安全）"
+            ]
+          }
+        },
+        {
+          "name": "Mountain Creek Waterpark",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "blue", "text": "水乐园" },
+            { "type": "nature", "text": "偏刺激" }
+          ],
+          "tip": "刺激水上项目，适合大孩子消暑",
+          "note": "水乐园，刺激项目多。不适合小宝宝，适合大孩子",
+          "addr": "200 NJ-94, Vernon Township, NJ · 约1.5小时",
+          "mapQ": "Mountain+Creek+Waterpark+NJ",
+          "checklist": {
+            "base": [
+              "👙 泳衣（紧身，避免宽松）",
+              "🩴 防滑水鞋",
+              "🏖️ 毛巾",
+              "👚 替换衣服",
+              "🧴 防晒霜 SPF50+",
+              "💧 饮用水",
+              "💳 提前网购票",
+              "🎒 防水袋（装手机/证件）"
+            ]
+          }
+        }
+      ],
+      "unique": [
+        {
+          "name": "Luna Park（Coney Island）",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "warm", "text": "NYC·约1.5小时" },
+            { "type": "nature", "text": "5岁+" }
+          ],
+          "tip": "海边+游乐场，NYC特色轻松一日游",
+          "note": "海边+游乐场，更像「娱乐区」非完整主题乐园。适合轻量一日游",
+          "addr": "1000 Surf Ave, Brooklyn, NY",
+          "mapQ": "Luna+Park+Coney+Island+Brooklyn",
+          "checklist": {
+            "base": [
+              "👙 泳衣（海边可玩水）",
+              "🩴 沙滩拖鞋",
+              "🧴 防晒霜",
+              "💵 现金（游乐设施单独计费）",
+              "💧 饮用水"
+            ]
+          }
+        },
+        {
+          "name": "Hershey's Chocolate World",
+          "tags": [
+            { "type": "free", "text": "入场免费" },
+            { "type": "warm", "text": "PA·约2.5小时" },
+            { "type": "green", "text": "全年龄" }
+          ],
+          "tip": "入场免费，DIY巧克力超好玩",
+          "note": "可免费乘ride了解巧克力制作，可DIY巧克力",
+          "addr": "251 Park Blvd, Hershey, PA",
+          "mapQ": "Hersheys+Chocolate+World+Hershey+PA",
+          "checklist": {
+            "base": [
+              "💳 DIY活动单独收费，带卡",
+              "🍫 提前网上预约DIY时段",
+              "💧 饮用水"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "block_meta": {
+    "theme": {
+      "label": "🎢 主题乐园",
+      "subsections": {
+        "toddler": { "label": "低幼首选（2–8岁）", "style": "purple" },
+        "recommended_toddler": { "label": "低幼强推", "style": "purple" },
+        "general": { "label": "综合游乐园", "style": "purple" },
+        "unique": { "label": "特色/独特体验", "style": "purple" }
+      }
+    }
+  }
+}

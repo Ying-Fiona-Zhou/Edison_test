@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "name": "Metuchen ECC",
+    "short": "Metuchen ECC",
+    "season": "当前课表（Spring）",
+    "address": "Metuchen, NJ",
+    "notes": [
+      "♦ 标记表示新时间/地点",
+      "♥ 标记表示爱心课程（适合老年人/初学者）"
+    ],
+    "rooms": {
+      "MPR": "多功能厅 (Multi-Purpose Room)",
+      "Studio": "舞蹈室",
+      "C": "单车室 (Cycling Studio)",
+      "Finnie Pool": "Finnie 游泳池（水中课程）"
+    }
+  },
+  "schedule": {
+    "Monday": [
+      { "time": "8:00-8:55am",   "class": "Serenity Power Strength", "room": "MPR",   "instructor": "Linda" },
+      { "time": "7:30-8:30am",   "class": "Step & Tone",             "room": "MPR",   "instructor": "Cathy" },
+      { "time": "9:00-9:55am",   "class": "Total Body",              "room": "MPR",   "instructor": "Doreen" },
+      { "time": "9:30-10:30am",  "class": "Aquafit",                 "room": "Finnie Pool", "instructor": "Lihan", "water": true },
+      { "time": "10:00-10:55am", "class": "Cardio Lite",             "room": "MPR",   "instructor": "Doreen", "senior_friendly": true },
+      { "time": "6:00-6:55pm",   "class": "20/20/20",                "room": "MPR",   "instructor": "Marilyn" }
+    ],
+    "Tuesday": [
+      { "time": "7:00-7:55am",   "class": "Total Body",              "room": "MPR",   "instructor": "Marilyn" },
+      { "time": "8:00-9:00am",   "class": "Pilates",                 "room": "MPR",   "instructor": "Linda" },
+      { "time": "9:00-9:55am",   "class": "ZUMBA",                   "room": "MPR",   "instructor": "EJ" },
+      { "time": "10:10-11:05am", "class": "Chair Yoga",              "room": "MPR",   "instructor": "EJ" },
+      { "time": "6:00-6:55pm",   "class": "Cardio Blast & Abs",      "room": "MPR",   "instructor": "Tracy" },
+      { "time": "7:00-7:55pm",   "class": "Line Dancing",            "room": "MPR",   "instructor": "Sari" },
+      { "time": "7:15-8:00pm",   "class": "Cycling",                 "room": "C",     "instructor": "Tracy" }
+    ],
+    "Wednesday": [
+      { "time": "7:30-8:30am",   "class": "Step & Tone",             "room": "MPR",   "instructor": "Cathy" },
+      { "time": "8:00-8:55am",   "class": "Core & More",             "room": "MPR",   "instructor": "Angela" },
+      { "time": "9:00-9:45am",   "class": "Aquafit",                 "room": "Finnie Pool", "instructor": "Annemarie", "water": true },
+      { "time": "9:00-9:55am",   "class": "Total Body",              "room": "MRP",   "instructor": "Angela" },
+      { "time": "10:00-10:55am", "class": "Cardio Lite",             "room": "MPR",   "instructor": "Doreen", "senior_friendly": true },
+      { "time": "6:15-7:30pm",   "class": "Total Body",              "room": "MPR",   "instructor": "Nancy" }
+    ],
+    "Thursday": [
+      { "time": "7:00-7:55am",   "class": "Pilates",                 "room": "MPR",   "instructor": "Linda" },
+      { "time": "8:00-8:55am",   "class": "Zumba",                   "room": "MPR",   "instructor": "Linda" },
+      { "time": "9:00-9:55am",   "class": "Yoga",                    "room": "MPR",   "instructor": "Luis" },
+      { "time": "10:00-10:55am", "class": "Forever Fitness",         "room": "MPR",   "instructor": "Lihan" },
+      { "time": "11:15-12:00pm", "class": "Aqua PI-YO",              "room": "Finnie Pool", "instructor": "Lihan", "water": true },
+      { "time": "6:00-6:55pm",   "class": "Yoga Flow",               "room": "MPR",   "instructor": "Lihan" }
+    ],
+    "Friday": [
+      { "time": "8:00-8:55am",   "class": "Stretch & Balance",       "room": "MPR",   "instructor": "Angela" },
+      { "time": "9:00-9:55am",   "class": "Zumba",                   "room": "MPR",   "instructor": "EJ" },
+      { "time": "9:30-10:30am",  "class": "Aqua ZUMBA",              "room": "Finnie Pool", "instructor": "Lihan", "water": true },
+      { "time": "10:00-10:55am", "class": "Chair Fitness",           "room": "MPR",   "instructor": "Nancy", "senior_friendly": true }
+    ],
+    "Saturday": [
+      { "time": "7:30-8:15am",   "class": "Cycling",                 "room": "C",     "instructor": "Tracy" },
+      { "time": "8:00-8:55am",   "class": "Yoga & Meditation",       "room": "MPR",   "instructor": "" },
+      { "time": "8:00-9:00am",   "class": "Step & Abs",              "room": "MPR",   "instructor": "Cathy" },
+      { "time": "9:00-10:00am",  "class": "Zumba",                   "room": "MPR",   "instructor": "Lisette" }
+    ],
+    "Sunday": [
+      { "time": "8:00-8:55am",   "class": "Step & Tone",             "room": "MPR",   "instructor": "Cathy" },
+      { "time": "9:00-10:00am",  "class": "Pilates",                 "room": "MPR",   "instructor": "Linda" }
+    ]
+  },
+  "class_descriptions": {
+    "Serenity Power Strength": "全身力量训练，强化肌肉和耐力",
+    "Step & Tone": "台阶有氧 + 全身塑形",
+    "Total Body": "有氧 + 力量 + 柔韧综合训练",
+    "Aquafit": "水中有氧健身，低冲击，关节友好",
+    "Aqua PI-YO": "水中 Pilates + Yoga 融合",
+    "Aqua ZUMBA": "水中 Zumba 舞蹈健身",
+    "Cardio Lite": "轻度有氧，适合老年人及初学者 ♥",
+    "20/20/20": "20分钟有氧 + 20分钟力量 + 20分钟柔韧，全身训练",
+    "Pilates": "强化核心柔韧性和肌耐力",
+    "ZUMBA": "拉丁舞蹈健身派对，轻松燃脂",
+    "Chair Yoga": "椅子辅助瑜伽，适合行动不便人群",
+    "Cardio Blast & Abs": "高能有氧 + 核心燃脂",
+    "Line Dancing": "排舞，轻松有趣，适合所有年龄",
+    "Cycling": "室内单车有氧，可自调阻力",
+    "Step & Tone": "台阶有氧 + 塑形",
+    "Core & More": "核心强化 + 全身训练",
+    "Yoga": "通过体式提升柔韧性和力量",
+    "Forever Fitness": "功能性健身，提升日常生活能力",
+    "Yoga Flow": "流动瑜伽序列",
+    "Stretch & Balance": "拉伸 + 平衡训练，预防跌倒",
+    "Chair Fitness": "椅子辅助健身，适合老年人 ♥",
+    "Yoga & Meditation": "瑜伽 + 冥想",
+    "Step & Abs": "台阶有氧 + 核心训练"
+  }
+}

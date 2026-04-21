@@ -1,0 +1,309 @@
+{
+  "meta": {
+    "section": "doctor",
+    "title": "医生推荐",
+    "updated": "2025-04"
+  },
+  "top3": [
+    {
+      "label": "👩‍⚕️ 王爱娟（儿医）",
+      "tag": "7天开诊·当天可约",
+      "phone": "7325169868"
+    },
+    {
+      "label": "👨‍⚕️ 郜萍（儿医）",
+      "tag": "讲中文·Edison",
+      "phone": "7327440077"
+    },
+    {
+      "label": "🏥 Robert Biem（OB）",
+      "tag": "经验丰富",
+      "phone": "7322873643"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "label": "全部"
+    },
+    {
+      "id": "pedi",
+      "label": "👶 儿医"
+    },
+    {
+      "id": "ob",
+      "label": "🤰 妇产"
+    },
+    {
+      "id": "family",
+      "label": "👨‍👩‍👧 家庭医"
+    },
+    {
+      "id": "dental",
+      "label": "🦷 牙医"
+    },
+    {
+      "id": "other",
+      "label": "其他"
+    }
+  ],
+  "categories": [
+    {
+      "id": "pedi",
+      "label": "儿医 Pediatrician",
+      "cards": [
+        {
+          "name": "王爱娟 Aijuan Wang（儿医）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "讲中文"
+            },
+            {
+              "type": "warm",
+              "text": "Edison"
+            },
+            {
+              "type": "gray",
+              "text": "7天开诊"
+            }
+          ],
+          "note": "7天开诊，当天可约，讲中文，华人家庭首推",
+          "addr": "Edison, NJ",
+          "phone": "7325169868"
+        },
+        {
+          "name": "郜萍 Ping Gao（儿医）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "讲中文"
+            },
+            {
+              "type": "warm",
+              "text": "Edison"
+            }
+          ],
+          "addr": "Edison, NJ",
+          "phone": "7327440077"
+        },
+        {
+          "name": "江莉 Li Jiang（儿医）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "讲中文"
+            },
+            {
+              "type": "warm",
+              "text": "Hillsborough"
+            },
+            {
+              "type": "gray",
+              "text": "周六开诊"
+            }
+          ],
+          "addr": "613 Courtyard Dr, Hillsborough, NJ",
+          "phone": "9087250875"
+        }
+      ]
+    },
+    {
+      "id": "family",
+      "label": "家庭医生 Family Doctor",
+      "cards": [
+        {
+          "name": "李翔 & 麦美红 Li Xiang & Mai Meihong",
+          "tags": [
+            {
+              "type": "green",
+              "text": "讲中文"
+            },
+            {
+              "type": "warm",
+              "text": "Edison"
+            }
+          ],
+          "note": "行医多年，第一代在美国行医的说中文的医生，好沟通",
+          "addr": "98 James St #201, Edison, NJ",
+          "phone": "7329069882"
+        }
+      ]
+    },
+    {
+      "id": "ob",
+      "label": "妇科 OB-GYN",
+      "cards": [
+        {
+          "name": "许博均 Pochien Hsu（OB）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "讲中文"
+            },
+            {
+              "type": "warm",
+              "text": "Metuchen"
+            },
+            {
+              "type": "avoid",
+              "text": "⚠️ 已退休"
+            }
+          ],
+          "note": "曾是华人社区首选，好说话，产假文件都会配合签字。目前已退休，不再接诊，请另寻医生",
+          "addr": "22 Bridge St, Metuchen, NJ"
+        },
+        {
+          "name": "Robert Biem（OB）",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "Edison"
+            },
+            {
+              "type": "gray",
+              "text": "英文"
+            }
+          ],
+          "note": "两位医生，经验丰富，护士可接受日常电话咨询，前台很 nice",
+          "addr": "4 Ethel Rd #402, Edison, NJ",
+          "phone": "7322873643"
+        }
+      ]
+    },
+    {
+      "id": "dental",
+      "label": "牙医 Dentist（成人）",
+      "cards": [
+        {
+          "name": "Brunswick Family Dental",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "East Brunswick"
+            },
+            {
+              "type": "green",
+              "text": "技术好"
+            }
+          ],
+          "note": "家庭经营，环境好，医生技术很好，补牙两年都没出问题",
+          "addr": "23 W Prospect St, East Brunswick, NJ",
+          "phone": "7326516262"
+        },
+        {
+          "name": "Edison Dental 27（马炎牙科）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "讲中文"
+            },
+            {
+              "type": "warm",
+              "text": "Edison"
+            }
+          ],
+          "note": "讲中文好沟通，环境好。但有群友反馈技术问题，且预约等待3个月",
+          "addr": "2 Lincoln Hwy #400, Edison, NJ",
+          "phone": "7329068883"
+        }
+      ]
+    },
+    {
+      "id": "dental-pedi",
+      "label": "儿科牙医 Pediatric Dentist",
+      "filterClass": "dental",
+      "cards": [
+        {
+          "name": "East Brunswick Pediatric Dentistry（强推）",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "East Brunswick"
+            },
+            {
+              "type": "green",
+              "text": "小孩最爱"
+            }
+          ],
+          "note": "环境很好，娃特别喜欢不害怕，每次送小礼物。下午预约需提前半年",
+          "addr": "17 East Brunswick Woods Dr, East Brunswick, NJ",
+          "phone": "7322385100"
+        },
+        {
+          "name": "Basking Ridge Pediatric Dentistry",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "Basking Ridge"
+            }
+          ],
+          "note": "Dr. Nguyen 非常 nice，团队很好",
+          "addr": "25 Mountainview Blvd #201, Basking Ridge, NJ",
+          "phone": "9086470747"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "其他专科",
+      "cards": [
+        {
+          "name": "段昌敏 Changmin Duan（眼科）",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "East Brunswick"
+            }
+          ],
+          "addr": "190 NJ-18 #302, East Brunswick, NJ",
+          "phone": "7322472847"
+        },
+        {
+          "name": "Robert Huang（耳鼻喉 ENT）",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "Woodbridge"
+            },
+            {
+              "type": "green",
+              "text": "多人推荐"
+            }
+          ],
+          "note": "好几位群友强烈推荐"
+        },
+        {
+          "name": "蔡庄 Zhuang Cai（中医）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "中医"
+            },
+            {
+              "type": "warm",
+              "text": "NY"
+            }
+          ],
+          "note": "上海蔡氏妇科第八世传人，擅长妇科，楼下可直接抓药，每副药不贵。只有周二周五在该地点",
+          "addr": "4 Bowery, New York, NY 10013",
+          "phone": "2129620447"
+        }
+      ]
+    }
+  ],
+  "avoid": [
+    {
+      "name": "李陈 Li Chen / LC Quality（牙医）",
+      "reason": "多名群友反映：过度治疗，拔智齿断神经造成永久损伤，补牙磨穿孔，态度差。强烈避坑"
+    },
+    {
+      "name": "Tender Smiles 4 Kids（儿科牙医）",
+      "reason": "医生和前台态度非常差，不耐烦。避雷"
+    },
+    {
+      "name": "谢冰如 Bingru Xie（肠胃科）",
+      "reason": "病人多，经验少，服务差，用药猛，收费贵，态度苛刻不靠谱"
+    }
+  ]
+}

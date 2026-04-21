@@ -1,0 +1,232 @@
+{
+  "blocks": {
+    "indoor": {
+      "indoor_discharge": [
+        {
+          "name": "Funzy Play",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "NJ" },
+            { "type": "age", "text": "👶 1–6岁" },
+            { "type": "warm", "text": "⚡ 放电" }
+          ],
+          "tip": "华人妈妈高频首选，toddler放电必去",
+          "note": "室内playground，干净整洁，特别适合toddler放电。华人妈妈的高频推荐首选",
+          "addr": "Jesscity, NJ · 近",
+          "mapQ": "Funzy+Play",
+          "checklist": {
+            "base": [
+              "👟 防滑袜或室内运动鞋",
+              "👕 宽松运动服（方便爬跳）",
+              "💧 饮用水",
+              "🍎 零食（玩完再吃）",
+              "💳 提前网购票（更便宜）"
+            ],
+            "potty_training": [
+              "🩲 多带一条裤子备用",
+              "⚠️ 进去前先上厕所"
+            ]
+          }
+        },
+        {
+          "name": "Kid's Empire - Woodbridge",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "室内" },
+            { "type": "age", "text": "👶 2–10岁" },
+            { "type": "warm", "text": "⚡ 放电" }
+          ],
+          "tip": "大型室内乐园，各年龄都能玩",
+          "addr": "465 Green St, Woodbridge, NJ · 约15min",
+          "mapQ": "Kids+Empire+Woodbridge+NJ",
+          "checklist": {
+            "base": [
+              "👟 防滑袜（必须，设施要求）",
+              "👕 运动服",
+              "💧 饮用水",
+              "💳 提前网购票"
+            ],
+            "potty_training": [
+              "🩲 备用裤子",
+              "⚠️ 进去前先上厕所"
+            ]
+          }
+        },
+        {
+          "name": "Kid's Empire - Watchung",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "室内" },
+            { "type": "age", "text": "👶 2–10岁" },
+            { "type": "warm", "text": "⚡ 放电" }
+          ],
+          "tip": "Watchung分店，周末可选人少的去",
+          "addr": "1515 US-22, Watchung, NJ · 约20min",
+          "mapQ": "Kids+Empire+Watchung+NJ",
+          "checklist": {
+            "base": [
+              "👟 防滑袜（必须）",
+              "👕 运动服",
+              "💧 饮用水",
+              "💳 提前网购票"
+            ]
+          }
+        },
+        {
+          "name": "Urban Air Trampoline Park",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "室内" },
+            { "type": "age", "text": "👶 3岁+" },
+            { "type": "warm", "text": "⚡ 放电" }
+          ],
+          "tip": "蹦蹦跳跳放电神器，需穿专属袜",
+          "note": "蹦床公园，需要穿专属袜子",
+          "addr": "396 Ryders Ln, Milltown, NJ · 约20min",
+          "mapQ": "Urban+Air+Milltown+NJ",
+          "checklist": {
+            "base": [
+              "🧦 Urban Air专属袜（现场可买，提前带省钱）",
+              "👕 运动服（紧身裤最佳）",
+              "💧 饮用水",
+              "💳 提前网购票",
+              "⚠️ 长发建议绑起来"
+            ]
+          }
+        },
+        {
+          "name": "Rock N Air",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "室内" },
+            { "type": "age", "text": "👶 3岁+专区" },
+            { "type": "warm", "text": "⚡ 放电" }
+          ],
+          "tip": "有3岁+专属区，小孩安全感更好",
+          "addr": "East Brunswick, NJ · 约20min",
+          "mapQ": "Rock+N+Air+East+Brunswick+NJ",
+          "checklist": {
+            "base": [
+              "🧦 防滑袜",
+              "👕 运动服",
+              "💧 饮用水",
+              "💳 提前网购票"
+            ]
+          }
+        },
+        {
+          "name": "Gravity Vault（室内攀岩）",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "室内" },
+            { "type": "age", "text": "👶 5岁+" },
+            { "type": "warm", "text": "⚡ 放电" }
+          ],
+          "tip": "5岁+大孩子挑战攀岩，成就感满满",
+          "note": "偏运动型，适合大一点的孩子挑战室内攀岩",
+          "addr": "多地点，Edison 周边均有",
+          "mapQ": "Gravity+Vault+NJ",
+          "checklist": {
+            "base": [
+              "👕 紧身运动服（宽松衣服影响攀爬）",
+              "👟 运动鞋（攀岩鞋现场租）",
+              "💧 饮用水",
+              "💳 提前预约"
+            ]
+          }
+        },
+        {
+          "name": "Bowlero（保龄球 + Arcade）",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "green", "text": "室内" },
+            { "type": "age", "text": "👶 4岁+" },
+            { "type": "warm", "text": "⚡ 放电" }
+          ],
+          "tip": "雨天首选，保龄球+游戏厅超好玩",
+          "note": "保龄球 + 游戏厅，适合4岁以上，雨天好去处",
+          "addr": "多地点，Edison 周边均有",
+          "mapQ": "Bowlero+Edison+NJ",
+          "checklist": {
+            "base": [
+              "🧦 厚袜子（穿保龄球鞋必须）",
+              "💵 现金/卡（游戏厅代币）",
+              "💳 提前查官网优惠券"
+            ]
+          }
+        }
+      ],
+      "indoor_light": [
+        {
+          "name": "Kidville",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "age", "text": "👶 1–5岁" },
+            { "type": "blue", "text": "🎨 轻活动" },
+            { "type": "warm", "text": "早教课" }
+          ],
+          "tip": "精品早教体验，适合追求品质的家庭",
+          "note": "Hoboken/JC地区精致路线。play + class（音乐/早教），适合追求品质体验的家庭",
+          "addr": "Hoboken / Jersey City · 约35min",
+          "mapQ": "Kidville+Hoboken+NJ",
+          "checklist": {
+            "base": [
+              "👟 室内软底鞋",
+              "👕 舒适衣服",
+              "💳 提前预约课程"
+            ]
+          }
+        },
+        {
+          "name": "Color Me Mine（陶瓷彩绘）",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "age", "text": "👶 3岁+" },
+            { "type": "blue", "text": "🎨 轻活动" },
+            { "type": "warm", "text": "安静氛围" }
+          ],
+          "tip": "安静创意活动，不想奔跑的周末首选",
+          "note": "画陶瓷，不放电但很有创造感。适合不想奔跑的周末",
+          "addr": "Edison / 多地点 · 本地可选",
+          "mapQ": "Color+Me+Mine+Edison+NJ",
+          "checklist": {
+            "base": [
+              "👕 旧衣服（颜料可能沾上）",
+              "💳 提前预约（热门时段约满）",
+              "📸 相机（作品很好拍）"
+            ]
+          }
+        },
+        {
+          "name": "Liberty Science Center",
+          "tags": [
+            { "type": "paid", "text": "收费" },
+            { "type": "age", "text": "👶 3岁+" },
+            { "type": "blue", "text": "🎨 科学" }
+          ],
+          "tip": "科学互动展览，好奇心强的孩子超喜欢",
+          "note": "科学展览互动，适合有好奇心的孩子",
+          "addr": "222 Jersey City Blvd, Jersey City, NJ · 约30min",
+          "mapQ": "Liberty+Science+Center+Jersey+City+NJ",
+          "checklist": {
+            "base": [
+              "👟 舒适运动鞋（走路多）",
+              "💳 提前网购票（更便宜）",
+              "🍱 可自带食物（内部餐厅较贵）",
+              "💧 饮用水"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "block_meta": {
+    "indoor": {
+      "label": "🏠 室内活动",
+      "subsections": {
+        "indoor_discharge": { "label": "⚡ 放电型", "badge": "蹦跳·攀爬·跑跑跳" },
+        "indoor_light": { "label": "🎨 轻活动型", "badge": "画画·手工·早教课" }
+      }
+    }
+  }
+}

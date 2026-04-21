@@ -1,0 +1,378 @@
+{
+  "meta": {
+    "section": "playground",
+    "title": "Playground",
+    "updated": "2025-04"
+  },
+  "blocks": {
+    "playground": {
+      "nearby": [
+        {
+          "name": "Roosevelt Park",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "green",
+              "text": "大型公园"
+            },
+            {
+              "type": "warm",
+              "text": "全年龄"
+            }
+          ],
+          "note": "空间大、适合散步+放电。☀️ 有遮阴 · 注意：周末人多",
+          "addr": "Roosevelt Park, Edison, NJ · 近",
+          "mapQ": "Roosevelt+Park+Edison+NJ",
+          "tip": "空间大，随时去，周末早点出发",
+          "checklist": {
+            "base": [
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        },
+        {
+          "name": "Donaldson Park",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "green",
+              "text": "新建"
+            },
+            {
+              "type": "warm",
+              "text": "河边环境"
+            }
+          ],
+          "note": "Playground 全新，河边环境很好",
+          "addr": "526 S 2nd Ave, Highland Park, NJ · 约10min",
+          "mapQ": "Donaldson+Park+Highland+Park+NJ",
+          "tip": "全新设施+河边环境，打卡必去",
+          "checklist": {
+            "base": [
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        },
+        {
+          "name": "Veterans Park Splash Pad",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "blue",
+              "text": "夏天玩水"
+            },
+            {
+              "type": "gray",
+              "text": "相对不挤"
+            }
+          ],
+          "note": "splash pad + playground，相对不那么拥挤，设施简单",
+          "addr": "Veterans Park, Edison, NJ · 约15min",
+          "mapQ": "Veterans+Park+Edison+NJ",
+          "tip": "人少设施简单，轻松随意",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🎒 防水袋",
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        }
+      ],
+      "scenic": [
+        {
+          "name": "Colonial Park",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "green",
+              "text": "☀️ 有遮阴"
+            },
+            {
+              "type": "warm",
+              "text": "喷水区"
+            }
+          ],
+          "note": "两个playground区+人工湖+夏天喷水区+鸭子船+mini golf",
+          "addr": "156 Mettlers Rd, Somerset, NJ · 约20min",
+          "mapQ": "Colonial+Park+Somerset+NJ",
+          "tip": "喷水+鸭子船+mini golf，可玩一整天",
+          "checklist": {
+            "base": [
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食",
+              "🧺 野餐垫"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        },
+        {
+          "name": "Thompson Park",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "warm",
+              "text": "野餐圣地"
+            },
+            {
+              "type": "green",
+              "text": "小动物园"
+            }
+          ],
+          "note": "桌椅+草坪+网球场+湖+沙滩排球+小动物园",
+          "addr": "Monroe Township, NJ · 约25min",
+          "mapQ": "Thompson+Park+Monroe+NJ",
+          "tip": "野餐+小动物园，周末家庭首选",
+          "checklist": {
+            "base": [
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食",
+              "🧺 野餐垫"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        },
+        {
+          "name": "Thompson Park Splash Pad",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "blue",
+              "text": "夏天玩水"
+            },
+            {
+              "type": "gray",
+              "text": "人相对少"
+            }
+          ],
+          "note": "splash pad，人相对少，规模中等",
+          "addr": "Thompson Park, Monroe, NJ · 约25–30min",
+          "mapQ": "Thompson+Park+Splash+Pad+Monroe+NJ",
+          "tip": "人少规模中等，顺便逛公园",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🎒 防水袋",
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食",
+              "🧺 野餐垫"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        }
+      ],
+      "farther": [
+        {
+          "name": "Kidstreet Playground",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "green",
+              "text": "大型"
+            },
+            {
+              "type": "warm",
+              "text": "沙坑+zipline"
+            }
+          ],
+          "note": "面积很大，有沙坑和 zip-lining",
+          "addr": "700 Garretson Rd, Bridgewater, NJ · 约30min",
+          "mapQ": "Kidstreet+Playground+Bridgewater+NJ",
+          "tip": "超大沙坑+zipline，孩子的天堂",
+          "checklist": {
+            "base": [
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食 + 午餐",
+              "🧺 野餐垫"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        },
+        {
+          "name": "West Windsor Community Park Splash Pad",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "blue",
+              "text": "大型splash pad"
+            },
+            {
+              "type": "green",
+              "text": "设施新"
+            }
+          ],
+          "note": "空间大，各年龄都适合。注意：周末人多",
+          "addr": "West Windsor, NJ · 约30min",
+          "mapQ": "West+Windsor+Community+Park+NJ",
+          "tip": "设施新空间大，周末早去",
+          "checklist": {
+            "base": [
+              "👙 泳衣/水衣",
+              "🩴 防滑拖鞋",
+              "🏖️ 毛巾",
+              "👚 替换干衣服",
+              "🎒 防水袋",
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食 + 午餐",
+              "🧺 野餐垫"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        },
+        {
+          "name": "Duke Island Park",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "green",
+              "text": "超开阔"
+            },
+            {
+              "type": "gray",
+              "text": "跑跳放电"
+            }
+          ],
+          "note": "很开阔，适合跑跳放电。注意：shade较少",
+          "addr": "North Bridge St, Bridgewater, NJ · 约30–40min",
+          "mapQ": "Duke+Island+Park+Bridgewater+NJ",
+          "tip": "超开阔草坪，跑跑跳跳放电",
+          "checklist": {
+            "base": [
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食 + 午餐",
+              "🧺 野餐垫"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        },
+        {
+          "name": "Mercer County Park Sprayground",
+          "tags": [
+            {
+              "type": "free",
+              "text": "免费"
+            },
+            {
+              "type": "blue",
+              "text": "水区+公园"
+            },
+            {
+              "type": "green",
+              "text": "设施新"
+            }
+          ],
+          "note": "设施比较新。注意：停车高峰紧张",
+          "addr": "Mercer County Park, NJ · 约30min",
+          "mapQ": "Mercer+County+Park+Sprayground+NJ",
+          "tip": "设施新，高峰期停车难",
+          "checklist": {
+            "base": [
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食 + 午餐",
+              "🧺 野餐垫"
+            ],
+            "with_stroller": [
+              "🛒 推车"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "block_meta": {
+    "playground": {
+      "label": "🛝 Playground",
+      "subsections": {
+        "nearby": {
+          "label": "日常就近",
+          "style": "green"
+        },
+        "scenic": {
+          "label": "稍远但值得",
+          "style": "green"
+        },
+        "farther": {
+          "label": "更远的大型Playground",
+          "style": "green"
+        }
+      }
+    }
+  }
+}

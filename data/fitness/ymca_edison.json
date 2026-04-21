@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "name": "YMCA Edison",
+    "short": "Edison Y",
+    "season": "Spring 2026 (March/April)",
+    "address": "1 Ethel Road, Edison NJ",
+    "url": "https://www.ymcaofmiddlesexcounty.org",
+    "notes": [
+      "最小年龄 10 岁（另有标注除外）",
+      "开课后 10 分钟内必须入场",
+      "先到先得，满 30 人截止（需取号：Zumba/Bolly/Bhangra, Bolly-X）",
+      "SGT 小组训练需额外付费，散客 $20/节",
+      "Enhance Fitness 会员免费但需提前注册"
+    ],
+    "rooms": {
+      "MPR1": "多功能厅 1",
+      "MPR2": "多功能厅 2",
+      "SGT": "小组训练（付费）"
+    }
+  },
+  "schedule": {
+    "Monday": [
+      { "time": "6:00-7:00am",   "class": "Sunrise Yoga",             "room": "MPR2", "instructor": "Nancy" },
+      { "time": "7:45-8:55am",   "class": "Yoga & Meditation",        "room": "MPR2", "instructor": "Reena" },
+      { "time": "9:00-9:55am",   "class": "Total Body",               "room": "MPR2", "instructor": "Angela" },
+      { "time": "9:00-10:00am",  "class": "TRX SGT*",                 "room": "SGT",  "instructor": "", "paid": true },
+      { "time": "10:00-10:55am", "class": "Zumba, Bolly & Bhangra",   "room": "MPR2", "instructor": "Sakshi", "numbered": true },
+      { "time": "12:00-1:00pm",  "class": "Enhance Fitness",          "room": "MPR2", "instructor": "Christine", "free_members": true },
+      { "time": "5:00-5:55pm",   "class": "Teen/Tween Yoga",          "room": "MPR2", "instructor": "Reena", "age": "12-18" },
+      { "time": "6:00-6:55pm",   "class": "Total Body",               "room": "MPR2", "instructor": "Sandy" },
+      { "time": "7:00-8:00pm",   "class": "Yoga",                     "room": "MPR2", "instructor": "Sandy" }
+    ],
+    "Tuesday": [
+      { "time": "6:00-7:00am",   "class": "Group Cycling",            "room": "MPR1", "instructor": "Karen" },
+      { "time": "8:00-8:55am",   "class": "Pilates",                  "room": "MPR2", "instructor": "Angela" },
+      { "time": "7:30-8:30am",   "class": "Intro to TRX SGT*",        "room": "SGT",  "instructor": "", "paid": true },
+      { "time": "8:00-9:00am",   "class": "Women on Weights Advanced SGT*", "room": "SGT", "instructor": "", "paid": true },
+      { "time": "9:00-9:55am",   "class": "HIIT",                     "room": "MPR2", "instructor": "Christine" },
+      { "time": "10:00-11:00am", "class": "Yoga",                     "room": "MPR2", "instructor": "Reena" },
+      { "time": "5:00-6:00pm",   "class": "Yoga",                     "room": "MPR2", "instructor": "Reena" },
+      { "time": "6:15-7:10pm",   "class": "Zumba, Bolly & Bhangra",   "room": "MPR2", "instructor": "Sakshi", "numbered": true },
+      { "time": "7:15-8:15pm",   "class": "Pranayama",                "room": "MPR2", "instructor": "Preeti" }
+    ],
+    "Wednesday": [
+      { "time": "6:00-7:00am",   "class": "Sunrise Yoga",             "room": "MPR2", "instructor": "Nancy" },
+      { "time": "8:00-8:55am",   "class": "Yoga",                     "room": "MPR2", "instructor": "Preeti" },
+      { "time": "9:00-9:55am",   "class": "Kickboxing",               "room": "MPR2", "instructor": "Ramya" },
+      { "time": "9:00-10:00am",  "class": "Roll & Recover SGT*",      "room": "SGT",  "instructor": "", "paid": true },
+      { "time": "10:00-10:55am", "class": "Zumba",                    "room": "MPR2", "instructor": "Christine" },
+      { "time": "12:00-1:00pm",  "class": "Enhance Fitness",          "room": "MPR2", "instructor": "Mike", "free_members": true },
+      { "time": "6:00-6:55pm",   "class": "HIIT",                     "room": "MPR2", "instructor": "Marilyn" },
+      { "time": "7:00-8:00pm",   "class": "Zumba Toning",             "room": "MPR2", "instructor": "Hollis" }
+    ],
+    "Thursday": [
+      { "time": "6:00-7:00am",   "class": "Group Cycling",            "room": "MPR1", "instructor": "Marilyn" },
+      { "time": "8:00-8:55am",   "class": "Total Body",               "room": "MPR2", "instructor": "Angela" },
+      { "time": "9:00-9:55am",   "class": "Pilates",                  "room": "MPR2", "instructor": "Angela" },
+      { "time": "9:00-10:00am",  "class": "Squats, Slams, Ropes SGT*","room": "SGT",  "instructor": "", "paid": true },
+      { "time": "10:00-11:00am", "class": "Women on Weights Beginner SGT*", "room": "SGT", "instructor": "", "paid": true },
+      { "time": "10:00-11:00am", "class": "Zumba, Bolly & Bhangra",   "room": "MPR2", "instructor": "Sakshi", "numbered": true },
+      { "time": "5:00-5:55pm",   "class": "Gentle Yoga",              "room": "MPR2", "instructor": "Ruth" },
+      { "time": "6:00-6:55pm",   "class": "Bolly X",                  "room": "MPR2", "instructor": "Aanchal", "numbered": true },
+      { "time": "7:00-8:00pm",   "class": "Pilates",                  "room": "MPR2", "instructor": "EJ" }
+    ],
+    "Friday": [
+      { "time": "6:00-7:00am",   "class": "Sunrise Strength",         "room": "MPR2", "instructor": "Karen" },
+      { "time": "8:00-8:55am",   "class": "Yoga",                     "room": "MPR2", "instructor": "Preeti" },
+      { "time": "9:00-10:00am",  "class": "Intro to TRX SGT*",        "room": "SGT",  "instructor": "", "paid": true },
+      { "time": "9:00-9:55am",   "class": "Kickboxing",               "room": "MPR2", "instructor": "Ramya" },
+      { "time": "10:00-10:55am", "class": "Zumba, Bolly & Bhangra",   "room": "MPR2", "instructor": "Srividya", "numbered": true },
+      { "time": "12:00-1:00pm",  "class": "Enhance Fitness",          "room": "MPR2", "instructor": "Christine", "free_members": true },
+      { "time": "6:00-7:00pm",   "class": "Zumba, Bolly & Bhangra",   "room": "MPR2", "instructor": "Sakshi", "numbered": true }
+    ],
+    "Saturday": [
+      { "time": "8:00-8:55am",   "class": "HIIT",                     "room": "MPR2", "instructor": "Ashok" },
+      { "time": "9:00-9:55am",   "class": "Zumba, Bolly & Bhangra",   "room": "MPR2", "instructor": "Srividya", "numbered": true },
+      { "time": "9:00-9:55am",   "class": "Bolly-X",                  "room": "MPR2", "instructor": "Aanchal", "numbered": true },
+      { "time": "10:00-11:00am", "class": "Yoga",                     "room": "MPR2", "instructor": "Payal" }
+    ],
+    "Sunday": [
+      { "time": "8:00-8:55am",   "class": "Step and Abs",             "room": "MPR2", "instructor": "Megha" },
+      { "time": "9:00-10:00am",  "class": "Intro to TRX SGT*",        "room": "SGT",  "instructor": "", "paid": true },
+      { "time": "10:00-11:00am", "class": "Yoga",                     "room": "MPR2", "instructor": "Sandy" }
+    ]
+  },
+  "class_descriptions": {
+    "Bolly-X": "宝莱坞风格舞蹈健身，融合动感编舞与高强度训练",
+    "Cycling": "室内单车有氧，可自调阻力，适合各水平",
+    "Enhance Fitness": "适合活跃老年人的关节炎管理课程，含椅子辅助有氧、力量、平衡、拉伸（会员免费）",
+    "HIIT": "高强度间歇训练，最大努力冲刺 + 恢复交替",
+    "Pilates": "强化核心柔韧性和肌耐力",
+    "Pranayama": "瑜伽调息练习，改善身心健康",
+    "Step & Abs": "台阶有氧 + 核心训练",
+    "Sunrise Strength": "全身力量训练，提升肌肉耐力和体型",
+    "Teen Yoga": "适合 12–18 岁青少年的舒缓瑜伽流",
+    "Total Body": "有氧 + 力量 + 柔韧综合训练",
+    "Gentle Yoga": "辅助道具 + 舒缓流，适合初学者",
+    "Yoga": "通过体式提升柔韧性和力量，舒缓压力",
+    "Yoga & Meditation": "瑜伽体式 + 冥想",
+    "Zumba": "拉丁舞蹈健身派对，轻松燃脂",
+    "Zumba/Bolly/Bhangra": "拉丁 + 宝莱坞 + 旁遮普节奏融合，中高强度",
+    "Zumba Toning": "Zumba + 轻哑铃塑形",
+    "TRX SGT*": "悬吊训练，全身力量 + 核心稳定（付费 $20）",
+    "Women on Weights": "女性力量训练，哑铃/杠铃/壶铃规范使用（付费 $20）",
+    "Kickboxing": "搏击有氧，全身燃脂",
+    "Roll & Recover SGT*": "筋膜放松 + 恢复训练（付费 $20）",
+    "Squats, Slams, Ropes SGT*": "战绳 + 药球深蹲冲击训练（付费 $20）"
+  }
+}

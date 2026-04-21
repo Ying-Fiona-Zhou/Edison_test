@@ -1,0 +1,165 @@
+{
+  "lastUpdated": "2026-04",
+  "city": "Edison, NJ area",
+  "ageGroups": [
+    {
+      "age": "2-3",
+      "items": [
+        {
+          "name": "My Gym (Edison)",
+          "ageRange": "1.5-3",
+          "type": "energy",
+          "tags": ["beginner-friendly", "high-energy", "parent-participation"],
+          "notes": "适合第一次上课的孩子，氛围轻松",
+          "locationHint": "Edison"
+        },
+        {
+          "name": "The Little Gym",
+          "ageRange": "2-3",
+          "type": "energy",
+          "tags": ["structured", "motor-skill", "shy-friendly"],
+          "notes": "结构化更强，适合需要规则感的孩子",
+          "locationHint": "附近多点位"
+        },
+        {
+          "name": "Music Together",
+          "ageRange": "0-4",
+          "type": "interest",
+          "tags": ["beginner-friendly", "parent-child", "low-pressure"],
+          "notes": "音乐启蒙，不强调技巧",
+          "locationHint": "Edison / Metuchen"
+        },
+        {
+          "name": "Kidville",
+          "ageRange": "1-4",
+          "type": "interest",
+          "tags": ["all-in-one", "social", "flexible"],
+          "notes": "音乐+运动+社交综合",
+          "locationHint": "周边城市"
+        }
+      ]
+    },
+    {
+      "age": "3-4",
+      "items": [
+        {
+          "name": "My Gym (Edison)",
+          "ageRange": "2.5-5",
+          "type": "energy",
+          "tags": ["high-energy", "routine-based", "confidence-building"],
+          "notes": "适合放电+建立自信",
+          "locationHint": "Edison"
+        },
+        {
+          "name": "Soccer Shots",
+          "ageRange": "3-5",
+          "type": "energy",
+          "tags": ["team-intro", "outdoor", "beginner-friendly"],
+          "notes": "入门团队运动",
+          "locationHint": "Edison / Metuchen"
+        },
+        {
+          "name": "Swim School (Goldfish / YMCA)",
+          "ageRange": "3+",
+          "type": "energy",
+          "tags": ["life-skill", "structured", "long-term"],
+          "notes": "游泳建议尽早开始",
+          "locationHint": "Edison / Piscataway"
+        },
+        {
+          "name": "Art Class (local studio)",
+          "ageRange": "3-5",
+          "type": "interest",
+          "tags": ["creative", "low-pressure", "short-attention"],
+          "notes": "适合安静型孩子",
+          "locationHint": "Edison / Highland Park"
+        },
+        {
+          "name": "Dance (Ballet / Creative Movement)",
+          "ageRange": "3-5",
+          "type": "interest",
+          "tags": ["structured", "expression", "routine"],
+          "notes": "适合喜欢模仿和节奏的孩子",
+          "locationHint": "Edison"
+        }
+      ]
+    },
+    {
+      "age": "4-5",
+      "items": [
+        {
+          "name": "Soccer Shots / Local League",
+          "ageRange": "4-6",
+          "type": "energy",
+          "tags": ["team-play", "coach-led", "progressive"],
+          "notes": "开始理解规则",
+          "locationHint": "Edison / Woodbridge"
+        },
+        {
+          "name": "Gymnastics (Level 1)",
+          "ageRange": "4+",
+          "type": "energy",
+          "tags": ["discipline", "skill-based", "structured"],
+          "notes": "比 toddler gym 更正式",
+          "locationHint": "Edison"
+        },
+        {
+          "name": "Karate / Taekwondo",
+          "ageRange": "4+",
+          "type": "energy",
+          "tags": ["discipline", "confidence", "long-term"],
+          "notes": "适合需要规则和专注力的孩子",
+          "locationHint": "Edison"
+        },
+        {
+          "name": "Piano Beginner",
+          "ageRange": "4-6",
+          "type": "interest",
+          "tags": ["1-on-1", "focus", "long-term"],
+          "notes": "需要家长配合练习",
+          "locationHint": "Edison / Metuchen"
+        },
+        {
+          "name": "Art Studio (Structured)",
+          "ageRange": "4-6",
+          "type": "interest",
+          "tags": ["skill-building", "creative", "classroom-style"],
+          "notes": "比低龄更有结构",
+          "locationHint": "Edison"
+        },
+        {
+          "name": "Kumon (Math/Reading)",
+          "ageRange": "4+",
+          "type": "learning",
+          "tags": ["academic", "repetition", "long-term"],
+          "notes": "偏应试/习惯培养",
+          "locationHint": "Edison"
+        },
+        {
+          "name": "Russian Math",
+          "ageRange": "5+",
+          "type": "learning",
+          "tags": ["advanced", "logic", "intensive"],
+          "notes": "强度较高，不适合所有孩子",
+          "locationHint": "附近城市"
+        },
+        {
+          "name": "Phonics / Reading Class",
+          "ageRange": "4-6",
+          "type": "learning",
+          "tags": ["school-prep", "structured", "small-group"],
+          "notes": "为K入学准备",
+          "locationHint": "Edison / East Brunswick"
+        },
+        {
+          "name": "Coding (Scratch Jr)",
+          "ageRange": "5+",
+          "type": "learning",
+          "tags": ["logic", "fun-based", "screen-time"],
+          "notes": "偏兴趣启蒙",
+          "locationHint": "Edison"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "meta": {
+    "section": "food",
+    "title": "餐厅推荐",
+    "updated": "2025-04"
+  },
+  "top3": [
+    {
+      "label": "🍜 小时代",
+      "tag": "带娃友好·清淡",
+      "mapQ": "小时代+Edison+NJ"
+    },
+    {
+      "label": "🥟 翠湖",
+      "tag": "早茶·家庭聚餐",
+      "mapQ": "翠湖+Edison+NJ"
+    },
+    {
+      "label": "🍲 东家小馆",
+      "tag": "美味·性价比高",
+      "mapQ": "东家小馆+Highlan+NJ"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "label": "🍽️ 全部"
+    },
+    {
+      "id": "kid_friendly",
+      "label": "👶 带娃友好"
+    },
+    {
+      "id": "family",
+      "label": "👨‍👩‍👧 家庭聚餐"
+    },
+    {
+      "id": "quick",
+      "label": "⚡ 快速简餐"
+    },
+    {
+      "id": "dimsum",
+      "label": "🥟 早茶"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "小时代",
+      "area": "Edison",
+      "category": "中餐",
+      "cuisine": "家常菜",
+      "kid_friendly": true,
+      "tags": [
+        {
+          "type": "green",
+          "text": "带娃友好"
+        },
+        {
+          "type": "warm",
+          "text": "口味清淡"
+        }
+      ],
+      "why_go": "环境不错，口味偏清淡，适合带孩子",
+      "note": "⚠️ 高峰期人多，可能需要排队",
+      "mapQ": "小时代+Edison+NJ",
+      "filter_tags": ["kid_friendly", "family"]
+    },
+    {
+      "name": "东家小馆",
+      "area": "Edison",
+      "category": "中餐",
+      "cuisine": "家常菜",
+      "kid_friendly": true,
+      "tags": [
+        {
+          "type": "green",
+          "text": "带娃友好"
+        },
+        {
+          "type": "warm",
+          "text": "量大实惠且好吃"
+        }
+      ],
+      "why_go": "多人推荐，口味清淡适合孩子吃",
+      "note": "",
+      "mapQ": "东家小馆+Edison+NJ",
+      "filter_tags": ["kid_friendly", "family"]
+    },
+    {
+      "name": "快乐小羊",
+      "area": "Edison",
+      "category": "火锅",
+      "cuisine": "火锅",
+      "kid_friendly": true,
+      "tags": [
+        {
+          "type": "green",
+          "text": "带娃友好"
+        },
+        {
+          "type": "blue",
+          "text": "性价比高"
+        },
+        {
+          "type": "warm",
+          "text": "Happy Hour"
+        }
+      ],
+      "why_go": "性价比高，周一到周四下午有 happy hour",
+      "note": "👉 可选清淡食材给孩子",
+      "mapQ": "快乐小羊+Edison+NJ",
+      "filter_tags": ["kid_friendly", "family"]
+    },
+    {
+      "name": "花小娇金汤花胶鸡",
+      "area": "Edison",
+      "category": "中餐",
+      "cuisine": "粤菜",
+      "kid_friendly": false,
+      "tags": [
+        {
+          "type": "warm",
+          "text": "家庭聚餐"
+        },
+        {
+          "type": "blue",
+          "text": "菜品多"
+        }
+      ],
+      "why_go": "菜品多，适合家庭聚餐",
+      "note": "👉 金汤偏油，建议点清淡或椰子鸡",
+      "mapQ": "花小胶+Edison+NJ",
+      "filter_tags": ["family"]
+    },
+    {
+      "name": "敦煌",
+      "area": "Edison",
+      "category": "中餐",
+      "cuisine": "西北菜",
+      "kid_friendly": false,
+      "tags": [
+        {
+          "type": "warm",
+          "text": "家庭聚餐"
+        },
+        {
+          "type": "blue",
+          "text": "面类"
+        }
+      ],
+      "why_go": "西北菜，面类不错",
+      "note": "👉 带娃建议选不辣",
+      "mapQ": "敦煌+Edison+NJ",
+      "filter_tags": ["family"]
+    },
+    {
+      "name": "四海",
+      "area": "Edison",
+      "category": "中餐",
+      "cuisine": "川菜",
+      "kid_friendly": false,
+      "tags": [
+        {
+          "type": "warm",
+          "text": "家庭聚餐"
+        },
+        {
+          "type": "green",
+          "text": "整体稳定"
+        }
+      ],
+      "why_go": "适合多人聚餐，整体稳定",
+      "note": "",
+      "mapQ": "四海+Edison+NJ",
+      "filter_tags": ["family"]
+    },
+    {
+      "name": "Spice 24",
+      "area": "Edison",
+      "category": "中餐",
+      "cuisine": "川菜",
+      "kid_friendly": false,
+      "tags": [
+        {
+          "type": "warm",
+          "text": "家庭聚餐"
+        },
+        {
+          "type": "green",
+          "text": "整体稳定"
+        }
+      ],
+      "why_go": "口味还不错",
+      "note": "",
+      "mapQ": "Spice 24+Edison+NJ",
+      "filter_tags": ["family"]
+    },
+    {
+      "name": "面源",
+      "area": "Edison",
+      "category": "快餐",
+      "cuisine": "面食",
+      "kid_friendly": true,
+      "tags": [
+        {
+          "type": "blue",
+          "text": "出餐快"
+        },
+        {
+          "type": "green",
+          "text": "适合孩子"
+        }
+      ],
+      "why_go": "出餐快，面食为主",
+      "note": "👉 炒面适合孩子",
+      "mapQ": "面源+Edison+NJ",
+      "filter_tags": ["quick", "kid_friendly"]
+    },
+    {
+      "name": "葛师傅",
+      "area": "Edison",
+      "category": "快餐",
+      "cuisine": "小炒",
+      "kid_friendly": true,
+      "tags": [
+        {
+          "type": "blue",
+          "text": "小炒类"
+        },
+        {
+          "type": "green",
+          "text": "适合孩子"
+        }
+      ],
+      "why_go": "小炒类，快速解决一顿",
+      "note": "👉 番茄滑饭适合孩子",
+      "mapQ": "葛师傅+Edison+NJ",
+      "filter_tags": ["quick", "kid_friendly"]
+    },
+    {
+      "name": "H Mart Food Court",
+      "area": "Edison",
+      "category": "快餐",
+      "cuisine": "多样",
+      "kid_friendly": true,
+      "tags": [
+        {
+          "type": "blue",
+          "text": "选择多"
+        },
+        {
+          "type": "warm",
+          "text": "灵活省时"
+        }
+      ],
+      "why_go": "选择多，适合买了就吃",
+      "note": "👉 灵活、省时间",
+      "mapQ": "H+Mart+Edison+NJ",
+      "filter_tags": ["quick"]
+    },
+    {
+      "name": "翠湖",
+      "area": "Edison",
+      "category": "早茶",
+      "cuisine": "粤菜",
+      "kid_friendly": true,
+      "tags": [
+        {
+          "type": "warm",
+          "text": "早茶"
+        },
+        {
+          "type": "green",
+          "text": "家庭友好"
+        }
+      ],
+      "why_go": "早茶不错，适合家庭",
+      "note": "⚠️ 建议早点去，人多",
+      "mapQ": "翠湖+Edison+NJ",
+      "filter_tags": ["dimsum", "family", "kid_friendly"]
+    },
+    {
+      "name": "悦满楼",
+      "area": "Edison",
+      "category": "早茶",
+      "cuisine": "粤菜",
+      "kid_friendly": true,
+      "tags": [
+        {
+          "type": "warm",
+          "text": "早茶"
+        },
+        {
+          "type": "green",
+          "text": "稳定选择"
+        }
+      ],
+      "why_go": "稳定早茶选择，适合家庭",
+      "note": "",
+      "mapQ": "悦满楼+Edison+NJ",
+      "filter_tags": ["dimsum", "family", "kid_friendly"]
+    }
+  ]
+}

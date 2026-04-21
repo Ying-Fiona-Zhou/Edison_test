@@ -1,0 +1,223 @@
+{
+  "meta": { "section": "hiking", "title": "Hiking", "updated": "2025-04" },
+  "blocks": {
+    "hiking": {
+      "stroller": [
+        {
+          "name": "Roosevelt Park Trail",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "green", "text": "推车可行" },
+            { "type": "warm", "text": "全年龄" }
+          ],
+          "tip": "平坦安全，推车带娃散步最佳",
+          "note": "公园步道，平坦安全，更像散步不是「爬山」。推车完全可行",
+          "addr": "Roosevelt Park, Edison, NJ · 近",
+          "mapQ": "Roosevelt+Park+Edison+NJ",
+          "checklist": {
+            "base": [
+              "👟 舒适运动鞋",
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食"
+            ],
+            "with_stroller": [
+              "🛒 推车充气轮胎检查",
+              "🧺 推车置物篮装水和零食"
+            ]
+          }
+        },
+        {
+          "name": "Duke Farms（自然步道）",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "green", "text": "推车可行" },
+            { "type": "warm", "text": "风景好" }
+          ],
+          "tip": "风景好空间大，推车轻松逛",
+          "note": "风景好，空间大，平坦推车可行",
+          "addr": "1112 Dukes Pkwy W, Hillsborough, NJ · 约30–40min",
+          "mapQ": "Duke+Farms+Hillsborough+NJ",
+          "checklist": {
+            "base": [
+              "👟 舒适运动鞋",
+              "💧 饮用水（步道较长）",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食",
+              "📸 相机（风景很好）"
+            ],
+            "with_stroller": [
+              "🛒 推车（道路平坦）",
+              "🧺 多带水和零食"
+            ]
+          }
+        }
+      ],
+      "easy": [
+        {
+          "name": "Watchung Reservation",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "green", "text": "小瀑布" },
+            { "type": "gray", "text": "3岁+" }
+          ],
+          "tip": "有小瀑布，3岁+孩子很喜欢",
+          "note": "森林步道，有小瀑布（Seeley's Pond area）很好玩。部分路段不平，推车较难",
+          "addr": "Watchung Reservation, NJ · 约30min",
+          "mapQ": "Watchung+Reservation+NJ",
+          "checklist": {
+            "base": [
+              "👟 防滑运动鞋（路段不平）",
+              "💧 饮用水",
+              "🧴 防晒+防虫喷雾",
+              "🌂 遮阳帽",
+              "🍎 零食",
+              "🩹 创可贴（备用）"
+            ],
+            "no_stroller": [
+              "🎒 背带/背架（推车较难）"
+            ]
+          }
+        },
+        {
+          "name": "Cheesequake State Park",
+          "tags": [
+            { "type": "paid", "text": "小额收费" },
+            { "type": "green", "text": "地形多样" },
+            { "type": "gray", "text": "3岁+" }
+          ],
+          "tip": "木栈道+森林，夏天注意防蚊",
+          "note": "木栈道+森林，地形多样。注意：夏天蚊子多",
+          "addr": "300 Gordon Rd, Matawan, NJ · 约25–30min",
+          "mapQ": "Cheesequake+State+Park+NJ",
+          "checklist": {
+            "base": [
+              "👟 防滑运动鞋",
+              "💧 饮用水",
+              "🦟 防蚊喷雾（夏天必备）",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍎 零食",
+              "💵 小额入场费"
+            ]
+          }
+        },
+        {
+          "name": "Colonial Park（步道）",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "green", "text": "花园+步道" },
+            { "type": "warm", "text": "拍照好" }
+          ],
+          "tip": "玫瑰花园+步道，适合拍照散步",
+          "note": "景色很好，适合散步+骑车+拍照，有玫瑰花园",
+          "addr": "156 Mettlers Rd, Somerset, NJ · 约20min",
+          "mapQ": "Colonial+Park+Somerset+NJ",
+          "checklist": {
+            "base": [
+              "👟 舒适鞋",
+              "💧 饮用水",
+              "🧴 防晒霜",
+              "📸 相机（花园很美）",
+              "🍎 零食"
+            ]
+          }
+        }
+      ],
+      "challenge": [
+        {
+          "name": "Sourland Mountain Preserve",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "nature", "text": "真正hiking" },
+            { "type": "gray", "text": "5岁+" }
+          ],
+          "tip": "真正山地徒步，5岁+挑战感十足",
+          "note": "更接近「真正hiking」，山地步道。注意：石头多，不适合推车",
+          "addr": "Sourland Mountain Preserve, NJ · 约40min",
+          "mapQ": "Sourland+Mountain+Preserve+NJ",
+          "checklist": {
+            "base": [
+              "🥾 登山鞋（石头多，必须）",
+              "💧 大量饮用水（2L+）",
+              "🦟 防蚊虫喷雾",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍱 零食/干粮",
+              "🗺️ 提前下载离线地图",
+              "🩹 急救小包"
+            ],
+            "no_stroller": [
+              "🎒 儿童背架（推车完全不可）"
+            ]
+          }
+        },
+        {
+          "name": "Palisades Interstate Park",
+          "tags": [
+            { "type": "free", "text": "免费" },
+            { "type": "green", "text": "Hudson River" },
+            { "type": "gray", "text": "6岁+" }
+          ],
+          "tip": "悬崖+河景，6岁+壮观体验",
+          "note": "沿河悬崖路线，景色很好。部分路段较陡，不适合推车",
+          "addr": "Palisades Interstate Park, NJ · 约50min",
+          "mapQ": "Palisades+Interstate+Park+NJ",
+          "checklist": {
+            "base": [
+              "🥾 防滑登山鞋（路段较陡）",
+              "💧 大量饮用水",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍱 零食/干粮",
+              "🗺️ 提前规划路线",
+              "🩹 急救小包"
+            ],
+            "no_stroller": [
+              "⚠️ 不适合推车，孩子需自行走路"
+            ]
+          }
+        }
+      ],
+      "trip": [
+        {
+          "name": "Delaware Water Gap",
+          "tags": [
+            { "type": "free", "text": "部分免费" },
+            { "type": "green", "text": "风景极好" },
+            { "type": "warm", "text": "家庭周末" }
+          ],
+          "tip": "风景极好，有适合家庭的简单路线",
+          "note": "自然保护区，风景非常好。路线难度差异大，有适合家庭的简单路线",
+          "addr": "Delaware Water Gap, NJ/PA · 约1–1.5小时",
+          "mapQ": "Delaware+Water+Gap+NJ",
+          "checklist": {
+            "base": [
+              "🥾 防滑运动鞋/登山鞋",
+              "💧 大量饮用水（路线长）",
+              "🦟 防蚊虫喷雾",
+              "🧴 防晒霜",
+              "🌂 遮阳帽",
+              "🍱 自带食物（保护区内设施少）",
+              "🗺️ 提前查好路线（难度差异大）",
+              "🩹 急救小包"
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "block_meta": {
+    "hiking": {
+      "label": "🥾 Hiking",
+      "subsections": {
+        "stroller": { "label": "推车/非常轻松", "style": "green" },
+        "easy": { "label": "轻松（3–5岁可）", "style": "green" },
+        "challenge": { "label": "有挑战（5岁+）", "style": "green" },
+        "trip": { "label": "周末远足（值得专程）", "style": "green" }
+      }
+    }
+  }
+}

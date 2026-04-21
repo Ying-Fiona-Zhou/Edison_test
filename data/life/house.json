@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "section": "house",
+    "title": "房屋维修推荐",
+    "updated": "2025-04"
+  },
+  "top3": [
+    {
+      "label": "❄️ 林师傅（HVAC）",
+      "tag": "执照齐全·强推",
+      "phone": "9087989908"
+    },
+    {
+      "label": "🔧 David（HVAC）",
+      "tag": "EPA+NATE执照",
+      "phone": "9083427788"
+    },
+    {
+      "label": "🛠️ Joe（全能工）",
+      "tag": "价格合理",
+      "phone": "7322072190"
+    }
+  ],
+  "filters": [
+    {
+      "id": "all",
+      "label": "全部"
+    },
+    {
+      "id": "hvac",
+      "label": "❄️ HVAC"
+    },
+    {
+      "id": "plumber",
+      "label": "🔧 水管"
+    },
+    {
+      "id": "renovation",
+      "label": "🏠 装修"
+    },
+    {
+      "id": "other",
+      "label": "⚡ 电工"
+    }
+  ],
+  "categories": [
+    {
+      "id": "hvac",
+      "label": "空调 HVAC",
+      "cards": [
+        {
+          "name": "林师傅（强推）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "执照齐全"
+            },
+            {
+              "type": "green",
+              "text": "强推"
+            }
+          ],
+          "phone": "9087989908"
+        },
+        {
+          "name": "David（HVAC）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "EPA+NATE执照"
+            }
+          ],
+          "phone": "9083427788"
+        },
+        {
+          "name": "王东明",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "上门服务"
+            }
+          ],
+          "phone": "6099037388"
+        },
+        {
+          "name": "David Yu",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "上门服务"
+            }
+          ],
+          "phone": "6096359590"
+        },
+        {
+          "name": "郑师傅",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "上门服务"
+            }
+          ],
+          "phone": "9175772851"
+        },
+        {
+          "name": "Areotech 魏先生",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "上门服务"
+            }
+          ],
+          "phone": "2016383730"
+        }
+      ]
+    },
+    {
+      "id": "plumber",
+      "label": "水管 Plumber",
+      "cards": [
+        {
+          "name": "Metrocorp",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "上门服务"
+            }
+          ],
+          "phone": "7323678555"
+        },
+        {
+          "name": "Shawn",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "上门服务"
+            }
+          ],
+          "phone": "2538809349"
+        }
+      ]
+    },
+    {
+      "id": "renovation",
+      "label": "装修 Renovation",
+      "cards": [
+        {
+          "name": "Joe（全能工）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "靠谱"
+            },
+            {
+              "type": "warm",
+              "text": "价格合理"
+            }
+          ],
+          "note": "全能装修工，价格合理，靠谱",
+          "phone": "7322072190"
+        }
+      ]
+    },
+    {
+      "id": "other",
+      "label": "电工 Electrician",
+      "cards": [
+        {
+          "name": "Mark（电工）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "有执照"
+            },
+            {
+              "type": "warm",
+              "text": "靠谱"
+            }
+          ],
+          "note": "有执照，靠谱，价格合理",
+          "phone": "6094622258"
+        }
+      ]
+    },
+    {
+      "id": "other-services",
+      "label": "其他服务",
+      "filterClass": "other",
+      "cards": [
+        {
+          "name": "Precision Pest Solutions（除虫）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "靠谱"
+            }
+          ],
+          "note": "前大公司出来单干，很负责，及时沟通",
+          "phone": "7323206131"
+        },
+        {
+          "name": "Azzarello's Landscaping（草坪）",
+          "tags": [
+            {
+              "type": "warm",
+              "text": "Edison 本地"
+            }
+          ],
+          "note": "Edison 本地公司，附近邻居都用，价格合理",
+          "phone": "7322214512"
+        },
+        {
+          "name": "Trenton Roofing & Siding（屋顶）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "价格公道"
+            }
+          ],
+          "note": "价格公道，做活利索，一个上午干完",
+          "phone": "6093936780"
+        },
+        {
+          "name": "Matt（排水沟 Gutter）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "响应快"
+            }
+          ],
+          "note": "回复及时，很快就来并修好了，费用合理",
+          "phone": "8626862400"
+        },
+        {
+          "name": "Raritan Valley Tree Service（砍树）",
+          "tags": [
+            {
+              "type": "green",
+              "text": "价格好"
+            },
+            {
+              "type": "avoid",
+              "text": "⚠️ 不做Edison Township"
+            }
+          ],
+          "note": "砍树价格很好，但由于 Edison Township 砍树法规较复杂，该公司不接 Edison 的单，周边城市可以"
+        }
+      ]
+    }
+  ]
+}
