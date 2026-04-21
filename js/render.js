@@ -5,6 +5,7 @@
 
 import { CONFIG } from './config.js?v=20260421c';
 import { FAV_LISTS, getFavorites, isFavorited, makeItemId, renderLikeBtn, addToList, removeFromFavorites, encodeFavoritePayload } from './favorites.js?v=20260421c';
+import { pagePath } from './paths.js?v=20260421c';
 
 // ════════════════════════════════════════
 // SHARED COMPONENTS
@@ -12,6 +13,12 @@ import { FAV_LISTS, getFavorites, isFavorited, makeItemId, renderLikeBtn, addToL
 
 export function renderTag(tag) {
   return `<span class="tag tag-${tag.type}">${tag.text}</span>`;
+}
+
+function normalizePageHref(href) {
+  return /^(index|play|events|study|life|fitness|favorites)\.html$/.test(href)
+    ? pagePath(href)
+    : href;
 }
 
 function extractDist(addr) {
@@ -357,7 +364,7 @@ export function renderHome({ play, seasonal, fitness }) {
             <div class="decision-kicker">今日</div>
             <div class="decision-title">🧘 推荐健身课</div>
           </div>
-          <a class="soft-link" href="fitness.html">完整课表</a>
+          <a class="soft-link" href="${pagePath('fitness.html')}">完整课表</a>
         </div>
         <div class="fitness-mini-list">
           ${todayFitness.length ? todayFitness.map(renderFitnessMini).join('') : '<div class="empty-mini">今天剩下的时间暂无推荐课，去完整课表看看明后天。</div>'}
@@ -370,7 +377,7 @@ export function renderHome({ play, seasonal, fitness }) {
             <div class="decision-kicker">Top 3</div>
             <div class="decision-title">📍 周末去哪</div>
           </div>
-          <a class="soft-link" href="play.html">看全部</a>
+          <a class="soft-link" href="${pagePath('play.html')}">看全部</a>
         </div>
         <div class="weekend-grid">
           ${weekendPicks.map((item, i) => renderWeekendPick(item, i)).join('')}
@@ -393,7 +400,7 @@ export function renderHome({ play, seasonal, fitness }) {
             <div class="decision-kicker">最近热门</div>
             <div class="decision-title">✨ 大家常会先看这些</div>
           </div>
-          <a class="soft-link" href="favorites.html">我的收藏</a>
+          <a class="soft-link" href="${pagePath('favorites.html')}">我的收藏</a>
         </div>
         <div class="hot-list">
           ${hot.map(renderHotRow).join('')}
@@ -405,7 +412,7 @@ export function renderHome({ play, seasonal, fitness }) {
 
 function renderTodayChoice(href, title, desc, meta) {
   return `
-    <a class="today-choice" href="${href}">
+    <a class="today-choice" href="${normalizePageHref(href)}">
       <span class="choice-title">${title}</span>
       <span class="choice-desc">${desc}</span>
       <span class="choice-meta">${meta}</span>
@@ -428,7 +435,7 @@ function renderWeekendPick(item, index) {
 function renderFitnessMini(item) {
   const flags = [item.site, item.room, item.instructor].filter(Boolean).join(' · ');
   return `
-    <a class="fitness-mini-row" href="fitness.html">
+    <a class="fitness-mini-row" href="${pagePath('fitness.html')}">
       <span class="fitness-mini-time">${startTimeLabel(item.time)}</span>
       <span class="fitness-mini-main">${item.class}</span>
       <span class="fitness-mini-place">${flags}</span>
@@ -437,7 +444,7 @@ function renderFitnessMini(item) {
 
 function renderQuickEntry(href, title, desc) {
   return `
-    <a class="quick-entry" href="${href}">
+    <a class="quick-entry" href="${normalizePageHref(href)}">
       <span>${title}</span>
       <small>${desc}</small>
     </a>`;
@@ -448,7 +455,7 @@ function renderHotRow(item) {
   const note = item.tip || item.tag || item.subtitle || item.note || '';
   const href = item.href || 'play.html';
   return `
-    <a class="hot-row" href="${href}">
+    <a class="hot-row" href="${normalizePageHref(href)}">
       <span>${title}</span>
       <small>${note}</small>
     </a>`;

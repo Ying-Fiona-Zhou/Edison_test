@@ -5,6 +5,9 @@
 
 import { state } from './state.js?v=20260421c';
 import { CONFIG } from './config.js?v=20260421c';
+import { dataPath } from './paths.js?v=20260421c';
+
+const fetchJSON = file => fetch(dataPath(file)).then(r => r.json());
 
 // ── JSON Loader（支持多文件合并 + 缓存）────
 export async function loadJSON(id) {
@@ -12,13 +15,13 @@ export async function loadJSON(id) {
 
   if (id === 'play') {
     const [core, indoor, beach, playground, water, hiking, theme] = await Promise.all([
-      fetch('data/play/play_core.json').then(r => r.json()),
-      fetch('data/play/indoor.json').then(r => r.json()),
-      fetch('data/play/beach.json').then(r => r.json()),
-      fetch('data/play/playground.json').then(r => r.json()),
-      fetch('data/play/water.json').then(r => r.json()),
-      fetch('data/play/hiking.json').then(r => r.json()),
-      fetch('data/play/theme.json').then(r => r.json()),
+      fetchJSON('data/play/play_core.json'),
+      fetchJSON('data/play/indoor.json'),
+      fetchJSON('data/play/beach.json'),
+      fetchJSON('data/play/playground.json'),
+      fetchJSON('data/play/water.json'),
+      fetchJSON('data/play/hiking.json'),
+      fetchJSON('data/play/theme.json'),
     ]);
 
     const data = {
@@ -51,9 +54,9 @@ export async function loadJSON(id) {
 
   if (id === 'seasonal') {
     const [events, farms, activities] = await Promise.all([
-      fetch('data/seasonal/events.json').then(r => r.json()),
-      fetch('data/seasonal/farms.json').then(r => r.json()),
-      fetch('data/seasonal/activities.json').then(r => r.json()),
+      fetchJSON('data/seasonal/events.json'),
+      fetchJSON('data/seasonal/farms.json'),
+      fetchJSON('data/seasonal/activities.json'),
     ]);
     const data = { events, farms, activities };
     state.cache[id] = data;
@@ -62,8 +65,8 @@ export async function loadJSON(id) {
 
   if (id === 'classes') {
     const [swim, classes] = await Promise.all([
-      fetch('data/study/swim.json').then(r => r.json()),
-      fetch('data/study/classes.json').then(r => r.json()),
+      fetchJSON('data/study/swim.json'),
+      fetchJSON('data/study/classes.json'),
     ]);
     const data = { swim, classes };
     state.cache[id] = data;
@@ -72,9 +75,9 @@ export async function loadJSON(id) {
 
   if (id === 'study') {
     const [classes, daycare, swim] = await Promise.all([
-      fetch('data/study/classes.json').then(r => r.json()),
-      fetch('data/study/daycare.json').then(r => r.json()),
-      fetch('data/study/swim.json').then(r => r.json()),
+      fetchJSON('data/study/classes.json'),
+      fetchJSON('data/study/daycare.json'),
+      fetchJSON('data/study/swim.json'),
     ]);
     const data = { classes, daycare, swim };
     state.cache[id] = data;
@@ -83,9 +86,9 @@ export async function loadJSON(id) {
 
   if (id === 'life') {
     const [doctor, food, house] = await Promise.all([
-      fetch('data/life/doctor.json').then(r => r.json()),
-      fetch('data/life/food.json').then(r => r.json()),
-      fetch('data/life/house.json').then(r => r.json()),
+      fetchJSON('data/life/doctor.json'),
+      fetchJSON('data/life/food.json'),
+      fetchJSON('data/life/house.json'),
     ]);
     const data = { doctor, food, house };
     state.cache[id] = data;
@@ -94,9 +97,9 @@ export async function loadJSON(id) {
 
   if (id === 'fitness') {
     const [edison, piscataway, metuchen] = await Promise.all([
-      fetch('data/fitness/ymca_edison.json').then(r => r.json()),
-      fetch('data/fitness/ymca_piscataway.json').then(r => r.json()),
-      fetch('data/fitness/metuchen.json').then(r => r.json()),
+      fetchJSON('data/fitness/ymca_edison.json'),
+      fetchJSON('data/fitness/ymca_piscataway.json'),
+      fetchJSON('data/fitness/metuchen.json'),
     ]);
     const data = { edison, piscataway, metuchen };
     state.cache[id] = data;
@@ -109,7 +112,7 @@ export async function loadJSON(id) {
     daycare: 'data/study/daycare.json',
     house: 'data/life/house.json',
   };
-  const res = await fetch(legacyPaths[id] || `data/${id}.json`);
+  const res = await fetch(dataPath(legacyPaths[id] || `data/${id}.json`));
   const data = await res.json();
   state.cache[id] = data;
   return data;

@@ -13,12 +13,12 @@ This project centralizes community-curated information into a lightweight, mobil
 ## Site Structure
 
 - `index.html` - decision entry page for choosing what to do today
-- `play.html` - kids activities and places to go, with category filters
-- `events.html` - seasonal events, farms, and activity-based recommendations
-- `study.html` - classes, daycare, and swim resources
-- `life.html` - doctors, restaurants, and home service providers
-- `fitness.html` - timetable-style group fitness schedule with day and location filters
-- `favorites.html` - localStorage-based saved lists
+- `pages/play.html` - kids activities and places to go, with category filters
+- `pages/events.html` - seasonal events, farms, and activity-based recommendations
+- `pages/study.html` - classes, daycare, and swim resources
+- `pages/life.html` - doctors, restaurants, and home service providers
+- `pages/fitness.html` - timetable-style group fitness schedule with day and location filters
+- `pages/favorites.html` - localStorage-based saved lists
 
 ## Features
 
@@ -50,7 +50,8 @@ This project centralizes community-curated information into a lightweight, mobil
 The site is ready for the production domain as long as it is deployed from the repository root.
 
 - No localhost or `127.0.0.1` paths are required.
-- JSON files are loaded with relative paths such as `data/play/play_core.json`.
+- Pages under `pages/` load shared assets with `../css/...` and `../js/...`.
+- JSON files are loaded through `js/paths.js`, so root and `pages/` routes both resolve `data/...` correctly.
 - Analytics domain is configured for `edisonmom.com`.
 
 ## Author

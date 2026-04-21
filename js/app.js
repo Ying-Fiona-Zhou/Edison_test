@@ -9,6 +9,7 @@ import { loadJSON, preloadOtherTabs } from './api.js?v=20260421c';
 import { loadWeather, toggleOutfitPanel } from './weather.js?v=20260421c';
 import { renderSection, renderFavoritesTab, renderHome } from './render.js?v=20260421c';
 import { getFavorites, addToList, removeFromFavorites, toggleFavorite } from './favorites.js?v=20260421c';
+import { installPageLinkRouting, pagePath } from './paths.js?v=20260421c';
 import {
   toggleCard, toggleItem, resetCard,
   toggleEventCard, toggleActivityCard,
@@ -57,12 +58,12 @@ function renderNavTabs() {
   container.innerHTML = CONFIG.tabs.map(tab => `
     <a class="tab-btn${currentPage === tab.id ? ' active' : ''}"
             data-tab="${tab.id}"
-            href="${tab.href}">
+            href="${pagePath(tab.href)}">
       <span class="tab-icon" aria-hidden="true">${tab.icon || ''}</span>
       <span>${tab.label}</span>
     </a>
   `).join('') + `
-    <a class="tab-btn fav-tab${currentPage === 'favorites' ? ' active' : ''}" data-tab="favorites" href="favorites.html">
+    <a class="tab-btn fav-tab${currentPage === 'favorites' ? ' active' : ''}" data-tab="favorites" href="${pagePath('favorites.html')}">
       <span class="tab-icon" aria-hidden="true">❤️</span>
       <span>收藏</span>${favBadge}
     </a>`;
@@ -223,6 +224,7 @@ document.addEventListener('DOMContentLoaded', () => {
   `;
   document.head.appendChild(style);
 
+  installPageLinkRouting();
   renderNavTabs();
   renderSceneGrid();
   loadWeather();
